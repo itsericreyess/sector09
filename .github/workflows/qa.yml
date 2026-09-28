@@ -1,0 +1,34 @@
+name: Sector09 QA
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '8.0.x'
+      - name: Restore
+        run: |
+          dotnet restore DoomFPS.Tests/DoomFPS.Tests.csproj
+          dotnet restore DoomFPS.BDD/DoomFPS.BDD.csproj
+          dotnet restore DoomFPS.Performance/DoomFPS.Performance.csproj
+      - name: Build Release (warnings as errors en capas core)
+        run: |
+          dotnet build DoomFPS.Tests/DoomFPS.Tests.csproj -c Release --no-restore -p:TreatWarningsAsErrors=true
+          dotnet build DoomFPS.BDD/DoomFPS.BDD.csproj -c Release --no-restore
+          dotnet build DoomFPS.Performance/DoomFPS.Performance.csproj -c Release --no-restore
+      - name: Smoke
+        run: dotnet test DoomFPS.Tests/DoomFPS.Tests.csproj -c Release --no-build --filter "Category=Smoke" --logger trx
+      - name: Unit, integration, acceptance + cobertura
+        run: dotnet test DoomFPS.Tests/DoomFPS.Tests.csproj -c Release --no-build --collect:"XPlat Code Coverage" --logger trx
+      - name: BDD
+        run: dotnet test DoomFPS.BDD/DoomFPS.BDD.csproj -c Release --no-build --logger trx
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: evidencias-qa
+          path: '**/TestResults/**'

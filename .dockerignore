@@ -1,0 +1,10 @@
+**/bin/
+**/obj/
+.vs/
+.vscode/
+Juego_Listo/
+Evidencias/
+TestResults/
+docs/
+*.bat
+*.zip

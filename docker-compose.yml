@@ -1,0 +1,13 @@
+# docker compose up -d --build   →   http://localhost:8080
+services:
+  sector09:
+    build:
+      context: .
+      target: web
+      args:
+        AOT: "true"
+    image: sector09-web
+    container_name: sector09
+    ports:
+      - "8080:80"
+    restart: unless-stopped

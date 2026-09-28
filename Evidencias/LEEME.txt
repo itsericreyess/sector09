@@ -1,0 +1,3 @@
+Aquí se guardan los TRX generados al ejecutar las pruebas en tu equipo.
+La evidencia de revisión adjunta está en docs/RESULTADOS_REVISION.txt.
+No se incluyen pantallazos ficticios: toma capturas de tu propia ejecución.

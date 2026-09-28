@@ -1,0 +1,15 @@
+  Failed PersistenceIntegrationTests.FirebaseHistorialDevuelveElPuntajeGuardado [3.9 ms]
+      AssertException: Assert.Equal() Failure
+Expected: 1500
+Actual:   0
+  Passed SmokeTests.HUM01_IniciarCampanaConDependenciasReales [1.8 ms]
+--
+  Failed EnemyAIAndPickupTests.Charger_Demonio_EmbisteYMuerdeAlJugadorInmovil [1.8 ms]
+      AssertException: Assert.True() Failure
+  Passed EnemyAIAndPickupTests.Charger_QueChocaContraLaParedQuedaAturdido [1.4 ms]
+  Passed EnemyAIAndPickupTests.Circler_Espectro_OrbitaAlrededorDelJugador [1.9 ms]
+  Failed EnemyAIAndPickupTests.Circler_Espectro_AtacaCuerpoACuerpoAlJugadorInmovil [2.5 ms]
+      AssertException: Assert.True() Failure
+  Passed EnemyAIAndPickupTests.Floater_Cacodemon_DisparaPlasmaADistancia [0.9 ms]
+  Passed EnemyAIAndPickupTests.Sentinel_SePlantaYDisparaRafagas(Mancubus) [0.5 ms]
+  Passed EnemyAIAndPickupTests.Sentinel_SePlantaYDisparaRafagas(CaballeroInfernal) [0.4 ms]

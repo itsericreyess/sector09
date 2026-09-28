@@ -1,0 +1,40 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoomFPS.Domain", "DoomFPS.Domain\DoomFPS.Domain.csproj", "{5D28B9B8-66C1-59A4-B08C-9DD7D950A638}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoomFPS.Application", "DoomFPS.Application\DoomFPS.Application.csproj", "{5772CB73-CA56-5020-9E15-52413FDC53F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoomFPS.Infrastructure", "DoomFPS.Infrastructure\DoomFPS.Infrastructure.csproj", "{0DE6AD83-AEF3-57AE-BBE1-00EFDFAF4747}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoomFPS.Presentation", "DoomFPS.Presentation\DoomFPS.Presentation.csproj", "{CE65E5A2-DAA9-57B3-9F6D-FC438E34EB7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoomFPS.Tests", "DoomFPS.Tests\DoomFPS.Tests.csproj", "{4CAB9005-04C1-5BD6-A3BF-5D6740E1A8E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D28B9B8-66C1-59A4-B08C-9DD7D950A638}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D28B9B8-66C1-59A4-B08C-9DD7D950A638}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D28B9B8-66C1-59A4-B08C-9DD7D950A638}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D28B9B8-66C1-59A4-B08C-9DD7D950A638}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5772CB73-CA56-5020-9E15-52413FDC53F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5772CB73-CA56-5020-9E15-52413FDC53F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5772CB73-CA56-5020-9E15-52413FDC53F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5772CB73-CA56-5020-9E15-52413FDC53F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DE6AD83-AEF3-57AE-BBE1-00EFDFAF4747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DE6AD83-AEF3-57AE-BBE1-00EFDFAF4747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DE6AD83-AEF3-57AE-BBE1-00EFDFAF4747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DE6AD83-AEF3-57AE-BBE1-00EFDFAF4747}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE65E5A2-DAA9-57B3-9F6D-FC438E34EB7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE65E5A2-DAA9-57B3-9F6D-FC438E34EB7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE65E5A2-DAA9-57B3-9F6D-FC438E34EB7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE65E5A2-DAA9-57B3-9F6D-FC438E34EB7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CAB9005-04C1-5BD6-A3BF-5D6740E1A8E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CAB9005-04C1-5BD6-A3BF-5D6740E1A8E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CAB9005-04C1-5BD6-A3BF-5D6740E1A8E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CAB9005-04C1-5BD6-A3BF-5D6740E1A8E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

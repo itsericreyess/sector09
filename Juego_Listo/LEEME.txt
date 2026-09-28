@@ -1,0 +1,9 @@
+Esta carpeta se dejo vacia a proposito: el codigo fuente cambio (nuevas
+funciones de perfiles locales, recarga, zona segura, subtitulos, etc.) y la
+version compilada anterior ya no coincide con el.
+
+Para jugar en Windows, ejecuta Compilar_y_jugar.bat desde la carpeta
+superior (requiere el SDK de .NET 8 o posterior instalado). Compila el
+proyecto, deja los binarios listos aqui mismo y arranca el juego. Despues de
+esa primera vez, Jugar.bat tambien funciona por si solo hasta el proximo
+cambio de codigo.

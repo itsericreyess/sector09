@@ -1,0 +1,17 @@
+08:54:33.671|Práctica|StartTraining(-1)|ArgumentOutOfRangeException: Specified argument was out of the range of valid values. (Parameter 'levelIndex')|OK (rechazo controlado)
+08:54:33.676|Práctica|StartTraining(7)|ArgumentOutOfRangeException: Specified argument was out of the range of valid values. (Parameter 'levelIndex')|OK (rechazo controlado)
+08:54:33.684|Guardado|Resume con nivel 99, salud -50, balas -10, cohetes 9999, sin armas|sin excepción; nivel=7, salud=1, balas=0, cohetes=50, arma=Pistola|OK (valores saneados)
+08:54:33.685|Guardado|Resume con nivel -3|nivel=1|OK (clamp)
+08:54:33.688|Entrada|Step(Look = NaN)|ArgumentOutOfRangeException: Specified argument was out of the range of valid values. (Parameter 'radians')|Observación: la entrada NaN lanza excepción en Step
+08:54:33.706|Entrada|Step(Turn = NaN)|ArgumentOutOfRangeException: Specified argument was out of the range of valid values. (Parameter 'radians'); ángulo conservado=True|Observación: el estado no se corrompe, pero la excepción sube hasta el bucle del juego
+08:54:33.715|Entrada|Step(Forward = 1e9, Strafe = -1e9)|sin excepción; desplazamiento=0.0417 celdas (máx. normal 0.0417)|OK (entrada saturada a [-1,1])
+08:54:33.735|Pausa|Alternar pausa/reanudar en cada cuadro (hasta 10.000) disparando|cuadros de juego=2121, pasos sin pausa=2121, estado=Lost|OK (el reloj solo avanza sin pausa)
+08:54:33.735|Pausa|Pausar después de perder|estado tras pausar=Lost, cuadros sin cambio=True|OK (no reabre la partida)
+08:54:34.123|Reintento|500 reintentos consecutivos|0.70 ms/reintento, memoria retenida 0 KB, salud=100|OK (sin fuga apreciable)
+08:54:34.980|Robustez|Monkey test 7 misiones, entradas aleatorias (semilla 2026)|60579 cuadros, excepciones=0, p50=0.012 ms, p99=0.052 ms, max=2.57 ms; N1:Lost@434s N2:Lost@11s N3:Lost@271s N4:Lost@10s N5:Lost@19s N6:Lost@256s N7:Lost@4s|OK
+08:54:35.065|Perfiles|CreateOrGet("   ") (solo espacios)|sin excepción; perfiles=1, nombre=''|HALLAZGO: se crea perfil con nombre vacío
+08:54:35.066|Perfiles|Nombre de 5.000 caracteres|sin excepción|Observación: no hay límite de longitud
+08:54:35.076|Perfiles|Nombre con emojis y comillas|sin excepción; recarga=True|OK (JSON escapado)
+08:54:35.077|Perfiles|Dos instancias abiertas crean perfiles distintos|perfiles en disco: [Nicolas]|HALLAZGO: la última escritura sobrescribe (pérdida de perfil)
+08:54:35.209|Perfiles|Crear 300 perfiles (persistencia en cada alta) y recargar|alta=0.43 ms/perfil, recarga=1.0 ms, total=300|OK
+08:54:35.212|Sesión|Cierre|duración de ejecución 1.6 s|-

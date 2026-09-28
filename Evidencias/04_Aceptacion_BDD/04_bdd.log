@@ -1,0 +1,47 @@
+Feature: Progreso de campaña, práctica y reintentos en Sector 09
+  PASSED Scenario: Iniciar campaña en dificultad Pesadilla (66.4 ms)
+      [Passed] Dado una campaña nueva preparada en dificultad Pesadilla
+      [Passed] Entonces la misión activa debe ser la número 1
+      [Passed] Y la dificultad aplicada debe ser PESADILLA
+      [Passed] Y el jugador debe tener 100 puntos de salud
+  PASSED Scenario: Reintentar una misión restablece el equipo inicial (4.8 ms)
+      [Passed] Dado una campaña nueva preparada en dificultad Normal
+      [Passed] Cuando el jugador recibe 45 puntos de daño
+      [Passed] Y el jugador reintenta la misión
+      [Passed] Entonces el jugador debe tener 100 puntos de salud
+      [Passed] Y la misión debe tener 0 objetivos completados
+  PASSED Scenario: Pasar a la siguiente misión conserva el equipo (6.0 ms)
+      [Passed] Dado una campaña nueva preparada en dificultad Normal
+      [Passed] Cuando el jugador recibe 20 puntos de daño
+      [Passed] Y el jugador avanza a la siguiente misión
+      [Passed] Entonces la misión activa debe ser la número 2
+      [Passed] Y el jugador debe tener 80 puntos de salud
+  PASSED Scenario: El modo práctica carga la misión final del puente de mando (8.0 ms)
+      [Passed] Dado que el jugador abre el modo práctica en la misión 7
+      [Passed] Entonces la misión activa debe ser la número 7
+      [Passed] Y el modo práctica debe estar activo
+      [Passed] Y el jugador debe tener al menos 2 armas
+  PASSED Scenario: El modo práctica rechaza una misión inexistente (3.2 ms)
+      [Passed] Dado una campaña nueva preparada en dificultad Normal
+      [Passed] Cuando el jugador intenta practicar la misión 8
+      [Passed] Entonces el sistema debe rechazar la solicitud por rango inválido
+  PASSED Scenario: Guardar y reanudar la campaña conserva la misión alcanzada (7.0 ms)
+      [Passed] Dado una campaña nueva preparada en dificultad Normal
+      [Passed] Y el jugador avanza a la siguiente misión
+      [Passed] Cuando se guarda la partida y se reanuda en una sesión nueva
+      [Passed] Entonces la misión activa debe ser la número 2
+      [Passed] Y el modo práctica no debe estar activo
+  PASSED Scenario: La pausa congela el reloj de la misión (3.1 ms)
+      [Passed] Dado una campaña nueva preparada en dificultad Normal
+      [Passed] Cuando el jugador pausa la partida y transcurren 120 cuadros
+      [Passed] Entonces el reloj de la misión debe marcar 0 cuadros
+      [Passed] Y la partida debe quedar en estado Paused
+Feature: Inicio de campaña de Sector 09
+  PASSED Scenario: Iniciar campaña en dificultad normal (3.1 ms)
+      [Passed] Dado que el jugador selecciona la dificultad normal
+      [Passed] Cuando inicia una campaña nueva
+      [Passed] Entonces la campaña debe contener 7 niveles
+      [Passed] Y el jugador debe iniciar con vida
+      [Passed] Y el estado del juego debe ser Playing
+
+8 scenarios (8 passed), 35 steps (35 passed)

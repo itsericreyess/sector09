@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sector 09 · Emergencia orbital</title>
+    <base href="/" />
+    <link rel="stylesheet" href="css/app.css" />
+</head>
+<body>
+    <canvas id="screen" tabindex="0" aria-label="Sector 09"></canvas>
+
+    <div id="loading">
+        <div class="title">SECTOR 09</div>
+        <div class="sub">Cargando el motor… la primera vez puede tardar unos segundos.</div>
+        <div class="bar"><span></span></div>
+        <div class="hint">Juega con teclado y ratón · Haz clic en la partida para capturar el ratón</div>
+    </div>
+
+    <div id="blazor-error-ui">
+        Ocurrió un error inesperado. <a href="" class="reload">Recargar</a>
+        <a class="dismiss">✕</a>
+    </div>
+
+    <button id="fullscreen" type="button" title="Pantalla completa">⛶</button>
+
+    <script src="_framework/blazor.webassembly.js"></script>
+    <script>
+        document.getElementById('fullscreen').addEventListener('click', () => {
+            if (document.fullscreenElement) document.exitFullscreen();
+            else document.documentElement.requestFullscreen().catch(() => {});
+        });
+    </script>
+</body>
+</html>

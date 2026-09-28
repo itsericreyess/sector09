@@ -1,0 +1,6 @@
+# Nombre exacto de la voz de Windows para los avisos de la IA de la nave.
+# Deja este archivo así para usar la voz femenina automática.
+# Para ver los nombres instalados en tu Windows, en PowerShell:
+#   Add-Type -AssemblyName System.Speech
+#   (New-Object System.Speech.Synthesis.SpeechSynthesizer).GetInstalledVoices() | % { $_.VoiceInfo.Name }
+# y copia aquí abajo, en una línea sin #, el nombre exacto que quieras usar.

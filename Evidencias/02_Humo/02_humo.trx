@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="97fff516-bc50-44e4-a9a9-100aed7d2cba" name="Sector09 2026-09-28 08:56:43" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2026-09-28T08:56:43.8502476-05:00" start="2026-09-28T08:56:43.8502476-05:00" finish="2026-09-28T08:56:43.8502476-05:00" />
+  <Results>
+    <UnitTestResult executionId="ea1d8415-1356-48b0-80a1-7fa6424764e2" testId="40c56cfa-3540-414e-95d9-be23b9240b87" testName="DoomFPS.Tests.Smoke.SmokeTests.HUM01_IniciarCampanaConDependenciasReales" computerName="vm" duration="00:00:00.0454971" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="ebd6c900-d8f7-4a53-9088-bb8653adb754" testId="20fbc64f-53bf-41f4-a670-7d7dd684bff8" testName="DoomFPS.Tests.Smoke.SmokeTests.HUM02_SeCarganLosSieteMapasYObjetivos" computerName="vm" duration="00:00:00.0127957" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="5dcec9fe-1a67-41ba-a897-aee7d695865c" testId="a86d5545-8dcf-438b-8750-5a7217717236" testName="DoomFPS.Tests.Smoke.SmokeTests.HUM03_ElJugadorSeMueveYDispara" computerName="vm" duration="00:00:00.0078642" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="40f5f20f-c783-427d-aec3-560e08194768" testId="b5df51f3-55b3-4ecc-b64f-7bacb0a0ad6c" testName="DoomFPS.Tests.Smoke.SmokeTests.HUM04_InteraccionActualizaObjetivo" computerName="vm" duration="00:00:00.0046359" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="6ab2f2bc-7ce3-412b-b3b1-abcdb2d3a78a" testId="8c2dc45d-ef48-4ab8-9464-e7a95e71e5e7" testName="DoomFPS.Tests.Smoke.SmokeTests.HUM05_PausaYReanudacionFuncionan" computerName="vm" duration="00:00:00.0002492" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="5fb32a98-ecf1-43d0-a133-ddc4428ae0a0" testId="667f01f1-9cbc-4f63-945b-07e96f945d61" testName="DoomFPS.Tests.Smoke.SmokeTests.HUM06_ReintentarRestableceMision" computerName="vm" duration="00:00:00.0023305" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="21b5f857-8cad-4120-b642-02b5e280c5f1" testId="b9e4e81a-09b3-4c3e-a308-aa11d0d6d96a" testName="DoomFPS.Tests.Smoke.SmokeTests.HUM07_ModoPracticaCargaCualquierMision" computerName="vm" duration="00:00:00.0099415" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="DoomFPS.Tests.Smoke.SmokeTests.HUM01_IniciarCampanaConDependenciasReales" id="40c56cfa-3540-414e-95d9-be23b9240b87">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Smoke" />
+      </TestCategory>
+      <Execution id="ea1d8415-1356-48b0-80a1-7fa6424764e2" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="SmokeTests" name="HUM01_IniciarCampanaConDependenciasReales" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Smoke.SmokeTests.HUM02_SeCarganLosSieteMapasYObjetivos" id="20fbc64f-53bf-41f4-a670-7d7dd684bff8">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Smoke" />
+      </TestCategory>
+      <Execution id="ebd6c900-d8f7-4a53-9088-bb8653adb754" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="SmokeTests" name="HUM02_SeCarganLosSieteMapasYObjetivos" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Smoke.SmokeTests.HUM03_ElJugadorSeMueveYDispara" id="a86d5545-8dcf-438b-8750-5a7217717236">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Smoke" />
+      </TestCategory>
+      <Execution id="5dcec9fe-1a67-41ba-a897-aee7d695865c" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="SmokeTests" name="HUM03_ElJugadorSeMueveYDispara" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Smoke.SmokeTests.HUM04_InteraccionActualizaObjetivo" id="b5df51f3-55b3-4ecc-b64f-7bacb0a0ad6c">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Smoke" />
+      </TestCategory>
+      <Execution id="40f5f20f-c783-427d-aec3-560e08194768" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="SmokeTests" name="HUM04_InteraccionActualizaObjetivo" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Smoke.SmokeTests.HUM05_PausaYReanudacionFuncionan" id="8c2dc45d-ef48-4ab8-9464-e7a95e71e5e7">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Smoke" />
+      </TestCategory>
+      <Execution id="6ab2f2bc-7ce3-412b-b3b1-abcdb2d3a78a" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="SmokeTests" name="HUM05_PausaYReanudacionFuncionan" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Smoke.SmokeTests.HUM06_ReintentarRestableceMision" id="667f01f1-9cbc-4f63-945b-07e96f945d61">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Smoke" />
+      </TestCategory>
+      <Execution id="5fb32a98-ecf1-43d0-a133-ddc4428ae0a0" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="SmokeTests" name="HUM06_ReintentarRestableceMision" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Smoke.SmokeTests.HUM07_ModoPracticaCargaCualquierMision" id="b9e4e81a-09b3-4c3e-a308-aa11d0d6d96a">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Smoke" />
+      </TestCategory>
+      <Execution id="21b5f857-8cad-4120-b642-02b5e280c5f1" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="SmokeTests" name="HUM07_ModoPracticaCargaCualquierMision" />
+    </UnitTest>
+  </TestDefinitions>
+  <ResultSummary outcome="Completed">
+    <Counters total="7" executed="7" passed="7" failed="0" />
+  </ResultSummary>
+</TestRun>

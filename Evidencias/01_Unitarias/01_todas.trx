@@ -1,0 +1,865 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="95a522af-1eab-460e-b832-99ca9b84be47" name="Sector09 2026-09-28 08:56:43" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2026-09-28T08:56:43.3819426-05:00" start="2026-09-28T08:56:43.3819426-05:00" finish="2026-09-28T08:56:43.3819426-05:00" />
+  <Results>
+    <UnitTestResult executionId="e76a154a-86de-4533-bb5e-84e2a996e49a" testId="a158a846-630f-413d-abe3-681fc85a67b6" testName="DoomFPS.Tests.Acceptance.MissionAcceptanceTests.ACE01_RelesHabilitanSalidaSinExigirTodasLasBajas" computerName="vm" duration="00:00:00.0247489" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="d4f50184-8f0e-4f38-962b-dee4c3ebf351" testId="7aca7c51-6318-4e00-8a98-75ac7b95d3fb" testName="DoomFPS.Tests.Acceptance.MissionAcceptanceTests.ACE02_InterruptoresExigenElOrdenIndicado" computerName="vm" duration="00:00:00.0012193" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="22317226-e99e-4d45-8e49-a83b4986e785" testId="60872f0a-2f0c-4756-b692-d0571eb595d2" testName="DoomFPS.Tests.Acceptance.MissionAcceptanceTests.ACE03_SueloElectricoDaniaEnRojoPeroNoEnAzul" computerName="vm" duration="00:00:00.0010141" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="7b53ad50-d1f5-4e73-be8d-a418273ea539" testId="0b5555cb-6782-4e1f-b4df-bb93df16edbe" testName="DoomFPS.Tests.Acceptance.MissionAcceptanceTests.ACE04_DronSeDetieneSiMeAlejoYContinuaCuandoRegreso" computerName="vm" duration="00:00:00.0055270" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="07a48265-8adb-4f1d-bc92-1fa5f53b812b" testId="206759c5-aa51-4a9f-adf9-9e0b1ea694f0" testName="DoomFPS.Tests.Acceptance.MissionAcceptanceTests.ACE05_EscoltarDronHastaDestinoPermiteGanar" computerName="vm" duration="00:00:00.0109160" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="e78e3d1c-9f7f-48c7-8c24-7583db940600" testId="b2d9df65-7826-4d94-b8c2-7fe3f65078cc" testName="DoomFPS.Tests.Acceptance.MissionAcceptanceTests.ACE06_ValvulasDetienenFugaAntesDelLimite" computerName="vm" duration="00:00:00.0004477" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="9889c436-8265-4e64-b9be-ba1a76f37851" testId="faf41d10-b328-4d9f-b7d6-f1993c308069" testName="DoomFPS.Tests.Acceptance.MissionAcceptanceTests.ACE07_FugaNoControladaTerminaEnDerrota" computerName="vm" duration="00:00:00.0004138" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="c22bc92d-3c59-4139-a7c3-44e19b79a687" testId="8877a6be-343c-49ae-a4b4-c837310c1c0c" testName="DoomFPS.Tests.Acceptance.MissionAcceptanceTests.ACE08_TransmisionSePausaFueraDeLaZonaSinPerderProgreso" computerName="vm" duration="00:00:00.0004890" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="99fd4fdb-65a3-4889-93c7-87a8edbc1d47" testId="b0cee4fc-9072-410c-8790-8021f9ba7d30" testName="DoomFPS.Tests.Acceptance.MissionAcceptanceTests.ACE09_EnemigoCercanoInterrumpeTransmision" computerName="vm" duration="00:00:00.0003256" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="89134417-2ccc-4dda-8e92-31d93adf17d5" testId="aee991ca-9e03-4933-b9b3-a6f575a70c0b" testName="DoomFPS.Tests.Acceptance.MissionAcceptanceTests.ACE10_UltimaCargaIniciaCuentaAtrasYEscapeDaVictoria" computerName="vm" duration="00:00:00.0004972" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="53418f61-4f82-4525-961f-f63f0a2f6da6" testId="c144b495-3a67-406a-a718-6f0c7262dc05" testName="DoomFPS.Tests.Acceptance.MissionAcceptanceTests.ACE11_NoEscaparDeLaExplosionDaDerrota" computerName="vm" duration="00:00:00.0003534" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="51da9c61-7623-43bb-b0ed-2716a56918fe" testId="394aafb3-a6e9-4f15-bc8e-da8b593dc432" testName="DoomFPS.Tests.Acceptance.MissionAcceptanceTests.ACE12_PilaresProtegenJefeHastaDesactivarlos" computerName="vm" duration="00:00:00.0040876" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="177f6407-1041-4423-9de5-1a6436ba4656" testId="9436d8db-598a-4e47-a710-c404027ce0bb" testName="DoomFPS.Tests.Acceptance.MissionAcceptanceTests.ACE13_PausaCongelaCuentaAtrasYObjetivos" computerName="vm" duration="00:00:00.0005136" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="7d3098c1-7891-4608-9a7f-43208e6d1c85" testId="bcba7077-b434-456b-94f8-179af7896804" testName="DoomFPS.Tests.Acceptance.MissionAcceptanceTests.ACE14_InteraccionRepetidaNoDuplicaObjetivo" computerName="vm" duration="00:00:00.0001926" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="604d1b2d-4c44-4355-bc25-39b6a4613d5b" testId="55756c6e-5809-41d8-94aa-e958a059f063" testName="DoomFPS.Tests.Acceptance.MissionAcceptanceTests.ACE15_NoPuedoActivarObjetivoDesdeLejos" computerName="vm" duration="00:00:00.0012616" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="79e3c610-8f8a-4d29-9029-d5cbd349d7a2" testId="d9cc14df-1043-4eff-acc5-dbd80470a748" testName="DoomFPS.Tests.Acceptance.MissionAcceptanceTests.ACE16_MochilaYMunicionSeConservanEnElEquipo" computerName="vm" duration="00:00:00.0082101" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="69b00ad6-c548-413c-aa6c-c179d975ba14" testId="46456895-5532-4eae-8812-1f21d9a8fdfb" testName="DoomFPS.Tests.Acceptance.MissionAcceptanceTests.ACE17_ReintentoBorraObjetivosYReiniciaCuentaAtras" computerName="vm" duration="00:00:00.0296296" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="6fbb1daa-c562-4d7a-9245-a99b73ad3366" testId="99d8df1c-5bc0-4cfa-80d3-5c021caa5294" testName="DoomFPS.Tests.Acceptance.SpaceshipAcceptanceTests.NAV01_MirarEnAmbosEjesNoDesplazaAlJugador" computerName="vm" duration="00:00:00.0007348" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="17920583-e3ab-45c6-acf6-12231bc64fb6" testId="8c5c24f5-080d-43af-be62-edf89cd04cdb" testName="DoomFPS.Tests.Acceptance.SpaceshipAcceptanceTests.NAV02_LimitesVerticalesYPausa" computerName="vm" duration="00:00:00.0002222" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="49929731-3779-4b47-a6f7-3b229372c002" testId="c9c62d2c-f280-4ff1-bcd5-b632afb84a25" testName="DoomFPS.Tests.Acceptance.SpaceshipAcceptanceTests.NAV03_DispararAlTechoNoImpactaAlEnemigoFrontal" computerName="vm" duration="00:00:00.0004287" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="79c22c9e-7be2-4f7f-b9e6-bcd1fd17b5a3" testId="82f0b5d2-87ae-4b84-b2bc-6556143b1960" testName="DoomFPS.Tests.Acceptance.SpaceshipAcceptanceTests.NAV04_PlasmaSigueLaAlturaDeLaMiraYChocaConElTecho" computerName="vm" duration="00:00:00.0020316" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="1cd445d2-d873-4f05-9892-18c41a8b57de" testId="c8ffd81f-b4a0-46bb-9eaa-d477e82d2194" testName="DoomFPS.Tests.Acceptance.SpaceshipAcceptanceTests.NAV05_LosSietePlanosSonDistintosYLosVentanalesSonSolidos" computerName="vm" duration="00:00:00.0151962" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="c9c2584f-342d-4b0f-b59d-58f1e18d4593" testId="531f42d8-a800-4478-bb37-71f3d6c300c1" testName="DoomFPS.Tests.Acceptance.SpaceshipAcceptanceTests.NAV06_PerderPorImpactoAunqueElEscudoEsteDesactivado" computerName="vm" duration="00:00:00.0003234" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="22b814ad-90cb-4fc9-abed-9325fc3d793e" testId="4aad33cf-9f0a-4cdf-b9fe-ba8eeb258300" testName="DoomFPS.Tests.Acceptance.SpaceshipAcceptanceTests.NAV07_RecuperarElTimonATiempoSalvaLaNave" computerName="vm" duration="00:00:00.0001046" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="74fa3b56-4768-4f28-b91c-06fa044205cf" testId="50a5eea0-a399-4940-871b-1e4db4a257e2" testName="DoomFPS.Tests.Acceptance.SpaceshipAcceptanceTests.NAV08_PuenteTieneCincoMinutosYReactorUnMinutoParaEvacuar" computerName="vm" duration="00:00:00.0017938" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="ba767178-97be-407d-8640-01753bf003a2" testId="b5dea26e-e2d1-47f8-8a67-9dffe1c90bef" testName="DoomFPS.Tests.Integration.CampaignIntegrationTests.LaCampanaTieneSieteMisionesYLaUltimaEsLaDelJefe" computerName="vm" duration="00:00:00.0077234" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="a9f4d140-6ecd-4d08-9c95-02805e21c325" testId="f27321f7-2d30-4744-aba8-a97ba2d0ab06" testName="DoomFPS.Tests.Integration.CampaignIntegrationTests.CadaMisionTieneMasEnemigosQueLaAnterior" computerName="vm" duration="00:00:00.0043234" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="a35ead14-70cd-44e6-82f7-36712afd3a97" testId="099d6cb3-76af-4d43-887b-0da4dddf6e69" testName="DoomFPS.Tests.Integration.CampaignIntegrationTests.LaVarietyDeEnemigosCreceALoLargoDeLaCampana" computerName="vm" duration="00:00:00.0106201" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="6c2b5904-4839-4a06-bf0c-da86a3b88b10" testId="f31d4b8d-f739-45ba-91bb-df4c94d3af33" testName="DoomFPS.Tests.Integration.CampaignIntegrationTests.EnCadaMisionSePuedenAlcanzarLlaves_Puertas_YSalida" computerName="vm" duration="00:00:00.0082166" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="716cdd3e-5bb4-4778-ade4-b0d382ac07a7" testId="2111a28a-ec56-4a1d-ac2a-512e33c48389" testName="DoomFPS.Tests.Integration.CampaignIntegrationTests.PasarDeMisionConservaExactamenteElEquipoDeLaMisionAnterior" computerName="vm" duration="00:00:00.0035520" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="f57a1860-973c-40de-b963-28244a159417" testId="e588a4b2-5cca-4ec8-a17b-520409ee8d8e" testName="DoomFPS.Tests.Integration.CampaignIntegrationTests.ReintentarDevuelveElEquipoDelInicioDeLaMision" computerName="vm" duration="00:00:00.0025745" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="293a9035-80bb-4fa4-a9d4-406ee0e6f8bd" testId="254838dc-5951-4334-bd63-b70c49c03d8f" testName="DoomFPS.Tests.Integration.CampaignIntegrationTests.ElResumenDeCadaMisionSeGuardaEnElRepositorio" computerName="vm" duration="00:00:00.0028979" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="0ab70863-abe4-4347-b91e-1072a79399fa" testId="ab62f92f-1861-45d4-832b-4f8d593aacad" testName="DoomFPS.Tests.Integration.CampaignIntegrationTests.LaSalidaDelJefeExigeMatarAlCiberdemonio" computerName="vm" duration="00:00:00.0068602" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="bae51834-f4ae-4930-bb1f-6b9579976ae6" testId="32d35047-2200-46df-81c8-e1a0f60c4ebc" testName="DoomFPS.Tests.Integration.CampaignIntegrationTests.LaPrimeraMisionSeCompletaConUnBotQueCaminaYDispara" computerName="vm" duration="00:00:00.0180530" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="7c27bb84-21e7-4edf-9225-2b76628b1c98" testId="b6e2d580-fe1b-4439-bcf9-50fc3aaf2120" testName="DoomFPS.Tests.Integration.FpsGameIntegrationTests.DisparoVisibleReduceVidaYConsumeUnCartucho" computerName="vm" duration="00:00:00.0002952" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="ef089148-ea88-42cb-8f9c-46e02fc8ae67" testId="9e5c0589-9010-4565-a7f1-f7a0b7f6974f" testName="DoomFPS.Tests.Integration.FpsGameIntegrationTests.DisparoFallidoTambienConsumeMunicion" computerName="vm" duration="00:00:00.0001370" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="5bd2eabd-8e72-42ef-b9cf-02291d1aa555" testId="2f2120df-c215-40d6-acad-894a6270fd51" testName="DoomFPS.Tests.Integration.FpsGameIntegrationTests.DisparoNoAtraviesaPared" computerName="vm" duration="00:00:00.0002353" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="d41f16a5-9d2b-4505-890b-8eaa2cfdcda8" testId="6dacf8ee-5d92-4aa4-b65f-9ebe4ac9b067" testName="DoomFPS.Tests.Integration.FpsGameIntegrationTests.DisparoSoloDaniaEnemigoMasCercano" computerName="vm" duration="00:00:00.0001490" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="14586758-f9c9-4465-9c33-892c645cb5a5" testId="3bfc147d-9b76-4bbc-ad59-44eef4802ceb" testName="DoomFPS.Tests.Integration.FpsGameIntegrationTests.MantenerDisparoRespetaCadencia" computerName="vm" duration="00:00:00.0002631" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="b6764f9f-4d20-4015-a66b-241829c246d8" testId="d3b03c8c-b78f-4b43-ae19-5c7cee9e39d5" testName="DoomFPS.Tests.Integration.FpsGameIntegrationTests.SinMunicionNoDaniaAlEnemigo" computerName="vm" duration="00:00:00.0001649" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="418405fb-d31e-46dc-93ce-7dac3bb92344" testId="18470e98-0ec7-4a42-9afe-14aa2122a161" testName="DoomFPS.Tests.Integration.FpsGameIntegrationTests.PausaCongelaTiempoPosicionMunicionYEnemigos" computerName="vm" duration="00:00:00.0001222" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="afe62e5c-b03e-4d72-8198-152ce5bb32ad" testId="18dd7f7a-227a-4959-9ea5-c30a3d124262" testName="DoomFPS.Tests.Integration.FpsGameIntegrationTests.MovimientoDiagonalNoEsMasRapido" computerName="vm" duration="00:00:00.0001539" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="6f925574-9e03-4da5-a0b2-ae1e0c0abc26" testId="d33ecf4b-a800-455a-9ef8-e4a7b09dac49" testName="DoomFPS.Tests.Integration.FpsGameIntegrationTests.MovimientoNoCruzaPared" computerName="vm" duration="00:00:00.0002645" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="c39b6a66-af87-48c4-96c2-d1a1414ea4e0" testId="8cdd975e-fb71-4da0-8387-e6e4bf3b6c4e" testName="DoomFPS.Tests.Integration.FpsGameIntegrationTests.RecogerTarjetaSeProcesaUnaSolaVez" computerName="vm" duration="00:00:00.0006909" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="d4c7767c-42d6-44b9-abbf-4d6852c737d1" testId="0ef2b81a-d643-4826-921d-ec7ccd60f92f" testName="DoomFPS.Tests.Integration.FpsGameIntegrationTests.BotiquinSeConservaSiLaSaludEstaCompleta" computerName="vm" duration="00:00:00.0003389" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="7194cfb9-7eb4-44ea-953e-91b933ee0bc4" testId="125ceb96-a48b-4a99-bf77-aade5b263a0f" testName="DoomFPS.Tests.Integration.FpsGameIntegrationTests.EnemigoSinVisionNoHaceDanoATravesDePared" computerName="vm" duration="00:00:00.0003569" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="44fddb36-952f-4ade-9e2a-262f986ed2c8" testId="89f47134-bf46-49fa-be9a-9d1975e0ca1d" testName="DoomFPS.Tests.Integration.FpsGameIntegrationTests.SaludCeroFinalizaLaPartida" computerName="vm" duration="00:00:00.0001255" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="1f80dd0c-f77d-4ff8-b3fe-966f349eb377" testId="54ca002a-aa36-4088-866b-664c05376b9e" testName="DoomFPS.Tests.Integration.FpsGameIntegrationTests.SalidaSinEnemigosProduceVictoria" computerName="vm" duration="00:00:00.0000928" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="8ae26d5b-735d-4f72-9ccd-fa7eee81e818" testId="01f3d184-eae1-4c62-b8c9-fca7a984918f" testName="DoomFPS.Tests.Integration.FpsGameIntegrationTests.SalidaConEnemigosVivosNoProduceVictoria" computerName="vm" duration="00:00:00.0001150" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="e5231938-d8fa-4260-a886-7ce000182f1f" testId="d64685bf-ff05-4fc3-917e-071193fa2955" testName="DoomFPS.Tests.Integration.FpsGameIntegrationTests.NuevoJuegoNoHeredaBajasNiTarjetas" computerName="vm" duration="00:00:00.0015539" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="fe95cafa-7e21-47b2-92be-9ec4eb860647" testId="b616c76b-3791-44bc-8439-53be144bae93" testName="DoomFPS.Tests.Integration.FullMissionIntegrationTests.NivelReal_RecogerTarjetas_AbrirPuertas_EliminarEnemigos_LlegarASalida" computerName="vm" duration="00:00:00.0106299" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="a42abe3e-c511-4d07-996e-f226a54b68e1" testId="2cd09224-844a-458e-8b7f-f7f11957f597" testName="DoomFPS.Tests.Integration.GameFlowIntegrationTests.Escenario_FlujoCompleto_AbrirPuertaYDerrotarEnemigo" computerName="vm" duration="00:00:00.0004524" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="f4ad3378-d913-4ea3-a640-482b8a79525c" testId="980a8a31-d73d-4a9c-862c-beb98aba0962" testName="DoomFPS.Tests.Integration.GameFlowIntegrationTests.Escenario_LlaveIncorrecta_PuertaNoQuedaRegistradaComoAbierta" computerName="vm" duration="00:00:00.0001047" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="3b13bae3-d380-43fd-b186-d08c8489d290" testId="d9cb4644-4365-40b2-822a-1c38b26aa1fc" testName="DoomFPS.Tests.Integration.PersistenceIntegrationTests.PerfilCreadoSePersisteEnDiscoYSeRecargaEnOtraSesion" computerName="vm" duration="00:00:00.0985097" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="7a5221a4-2ba2-4bd1-9fba-0f5cb0af50ec" testId="291bb045-7bc5-447d-b6d0-4f1af62f058a" testName="DoomFPS.Tests.Integration.PersistenceIntegrationTests.AdminSiempreEsAdministradorYPuedeElegirMision" computerName="vm" duration="00:00:00.0014513" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="cf23e3ac-09ae-4c00-8eae-e2245ce46193" testId="78febafb-a838-41af-8e37-82eda8bd74ec" testName="DoomFPS.Tests.Integration.PersistenceIntegrationTests.CrearDosVecesElMismoNombreNoDuplica" computerName="vm" duration="00:00:00.0012287" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="192d5ace-8b97-4ccc-ba4b-fbf5cea0b772" testId="b167027f-87a0-4b5b-9008-5dbf8da80c98" testName="DoomFPS.Tests.Integration.PersistenceIntegrationTests.BorrarPerfilLimpiaElUltimoUsado" computerName="vm" duration="00:00:00.0019695" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="3a2822f2-7991-4849-a90b-ac5934e794d6" testId="fa153889-d6a5-4177-829e-c805ca472169" testName="DoomFPS.Tests.Integration.PersistenceIntegrationTests.ArchivoCorruptoNoImpideJugar" computerName="vm" duration="00:00:00.0043889" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="07c7346d-f2d5-4e28-a2a1-e7e5a2fedadf" testId="ee5ebf2e-d995-429c-aded-3753f7eef1b9" testName="DoomFPS.Tests.Integration.PersistenceIntegrationTests.GuardadoDeCampanaSobreviveAlDiscoYSeReanuda" computerName="vm" duration="00:00:00.0313605" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="aba8b7eb-2a9b-493c-930d-6813533a26a0" testId="e487bdf1-8ce0-48c0-9d93-8aeab0cea423" testName="DoomFPS.Tests.Integration.PersistenceIntegrationTests.CuentaLocalRegistraSesionEHistorialOrdenado" computerName="vm" duration="00:00:00.0023903" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="b45c409b-893d-4ad9-92af-13d25454190d" testId="cf8fbd82-2c79-47aa-9e28-fc795fcbe851" testName="DoomFPS.Tests.Integration.PersistenceIntegrationTests.FirebaseSinConfigurarRechazaElInicioDeSesion" computerName="vm" duration="00:00:00.0080957" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="44e37b63-becb-4aab-827f-9fd385b27766" testId="eb8028c9-9655-4c58-8cb3-75564d1b89f1" testName="DoomFPS.Tests.Integration.PersistenceIntegrationTests.FirebaseRegistroCreaSesionRemotaYPerfil" computerName="vm" duration="00:00:00.0201343" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="28069588-b8a6-4753-919b-97352b59cd1b" testId="799adf92-2749-4cb6-b144-56dd82e68f1e" testName="DoomFPS.Tests.Integration.PersistenceIntegrationTests.FirebaseTraduceErroresDeCredenciales" computerName="vm" duration="00:00:00.0012094" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="c51c1800-7f50-47e4-8f9e-d6b33f2e8707" testId="8b39c7ae-777f-4be7-b536-91291e1f0d2a" testName="DoomFPS.Tests.Integration.PersistenceIntegrationTests.FirebaseGuardaPuntajeSoloConSesion" computerName="vm" duration="00:00:00.0040265" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="c2694b86-a904-446b-a467-768c54b8158e" testId="ded1e0ea-1c61-47ef-9d50-8a856f07b34d" testName="DoomFPS.Tests.Integration.PersistenceIntegrationTests.FirebaseHistorialDevuelveElPuntajeGuardado" computerName="vm" duration="00:00:00.0001042" outcome="NotExecuted" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>BUG-S09-003 abierto: GetHistoryAsync deserializa con mayúsculas y el puntaje remoto vuelve en 0</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="6aa1a9e6-8d9a-4a00-ae63-45718d916756" testId="045513d9-d44b-41e6-a610-5a1a76261553" testName="DoomFPS.Tests.Smoke.SmokeTests.HUM01_IniciarCampanaConDependenciasReales" computerName="vm" duration="00:00:00.0017178" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="f092f69b-4a78-4554-ac9d-7d7c7794a6c1" testId="894ce6a6-0102-4d6b-9d3e-189f9abf6af9" testName="DoomFPS.Tests.Smoke.SmokeTests.HUM02_SeCarganLosSieteMapasYObjetivos" computerName="vm" duration="00:00:00.0048961" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="00228508-40a9-4411-83f6-ece6b9fbb5ff" testId="106d7fd8-5f7f-45f2-b9f8-c1a34c7b9a58" testName="DoomFPS.Tests.Smoke.SmokeTests.HUM03_ElJugadorSeMueveYDispara" computerName="vm" duration="00:00:00.0002449" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="4170f640-e11a-4b91-a794-32681f3d56b4" testId="79d5a2a9-6be1-451f-bf21-cbe5de1e3643" testName="DoomFPS.Tests.Smoke.SmokeTests.HUM04_InteraccionActualizaObjetivo" computerName="vm" duration="00:00:00.0002153" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="8c16fd59-6f52-4084-aecb-a13975639bfc" testId="cbb045d6-6009-4d72-a305-0d19d4666029" testName="DoomFPS.Tests.Smoke.SmokeTests.HUM05_PausaYReanudacionFuncionan" computerName="vm" duration="00:00:00.0001186" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="7c2eafbd-0ebc-43bc-9edf-9c0cc1b0f6c3" testId="963e3641-9495-4060-b379-b37b2d63c08a" testName="DoomFPS.Tests.Smoke.SmokeTests.HUM06_ReintentarRestableceMision" computerName="vm" duration="00:00:00.0020958" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="71b7c9f7-d7f1-46df-9854-005519fef63d" testId="732be1f4-40b0-4f0c-9970-2183cb1c88fe" testName="DoomFPS.Tests.Smoke.SmokeTests.HUM07_ModoPracticaCargaCualquierMision" computerName="vm" duration="00:00:00.0067439" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="136db2b9-9e53-4aed-a934-1ff0ad050bb3" testId="f446d4ec-9137-4c5b-bf88-cfcf69880cb1" testName="DoomFPS.Tests.Unit.ArsenalTests.CadaArmaTieneRanuraYMunicionPropias" computerName="vm" duration="00:00:00.0014463" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="b0b8401a-9a76-4d85-9337-ca813bd9cade" testId="2799bbf8-acf7-4310-9857-e5161a33b72a" testName="DoomFPS.Tests.Unit.ArsenalTests.LaEscopetaGastaUnCartuchoYLaRecortadaDos" computerName="vm" duration="00:00:00.0001259" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="d74ad766-141f-409a-8753-5ba42363beee" testId="d4dca490-6080-4fb3-b393-42766d1a7f5b" testName="DoomFPS.Tests.Unit.ArsenalTests.RecogerUnArmaLaEquipaYNoSeDuplica" computerName="vm" duration="00:00:00.0001951" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="7bb2c65e-78c1-4f6b-85e4-a2e92345a90c" testId="d8dc0456-bbde-4a54-82c5-0ca48abd0ff3" testName="DoomFPS.Tests.Unit.ArsenalTests.LasRanurasSeleccionanElArmaCorrecta" computerName="vm" duration="00:00:00.0000787" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="45b01445-2f84-4c94-946f-89407c6d57dc" testId="38879f07-4993-4639-ab1a-cc5b0153c355" testName="DoomFPS.Tests.Unit.ArsenalTests.CadaTipoDeMunicionSeGuardaPorSeparado" computerName="vm" duration="00:00:00.0000619" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="c559502b-2802-4bf2-b813-66187d9153b8" testId="e957252d-899c-4d4e-bc32-6dd6bbbf1d50" testName="DoomFPS.Tests.Unit.ArsenalTests.LaMunicionNoPasaDelTopeYLaMochilaLoDuplica" computerName="vm" duration="00:00:00.0000568" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="f0bef894-0523-4a18-a303-ffc3ca78b4df" testId="d502c0d0-1c2d-48da-812f-5e3734316e3f" testName="DoomFPS.Tests.Unit.ArsenalTests.LaArmaduraAbsorbeParteDelGolpe" computerName="vm" duration="00:00:00.0000502" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="efb434c9-fc51-48f5-9402-b8a325e1ed5c" testId="21e2347c-b151-46d2-a942-53b91372a033" testName="DoomFPS.Tests.Unit.ArsenalTests.SinArmaduraElDanoEsElOriginal" computerName="vm" duration="00:00:00.0000372" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="9cdc9606-ee6d-4b2b-aa9f-962b02c36d11" testId="bf8c03e4-ccf4-4bc4-ab7f-ea476d77c541" testName="DoomFPS.Tests.Unit.ArsenalTests.LaMegaesferaSobrecargaLaSaludHastaDoscientos" computerName="vm" duration="00:00:00.0000500" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="22863150-4f34-4f49-9084-4c62bd115895" testId="670c8582-b6a5-4dc6-a659-a95ce32fb6e7" testName="DoomFPS.Tests.Unit.ArsenalTests.ElEquipoViajaDeUnaMisionALaSiguiente" computerName="vm" duration="00:00:00.0001119" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="63ab5eca-99b7-4b5a-8570-aed1ac6ecf36" testId="4c9e0f20-27bc-4a1c-bf69-ed6688e8613f" testName="DoomFPS.Tests.Unit.ArsenalTests.ElProyectilNoAceptaDireccionNula" computerName="vm" duration="00:00:00.0008236" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="20717541-4428-47bc-bd07-ca9a09382d5f" testId="4eb490b9-4240-4ce0-98dc-549a0bfbeb39" testName="DoomFPS.Tests.Unit.ArsenalTests.ElProyectilAvanzaEnLineaRecta" computerName="vm" duration="00:00:00.0001441" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="89578242-ea3a-4a50-8d89-a581d84784b8" testId="521db3b4-56be-433a-a068-0f2eeff686f6" testName="DoomFPS.Tests.Unit.BestiarioTests.HayNueveEspeciesYNingunaRepiteNombre" computerName="vm" duration="00:00:00.0020557" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="a3b5f591-bbbe-4b16-aa18-cb8e59bc6bd1" testId="d0efcf7c-810d-4f0e-8844-c0f97bc40dc4" testName="DoomFPS.Tests.Unit.BestiarioTests.CadaEspecieUsaSuPropioPatronDeMovimientoOAtaque" computerName="vm" duration="00:00:00.0058228" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="e7b3fcb5-444d-4d42-9d0f-97eab8fe0744" testId="bed76448-300a-40e9-89d9-94240467ee66" testName="DoomFPS.Tests.Unit.BestiarioTests.LaDificultadEscalaVidaDanoYVelocidad" computerName="vm" duration="00:00:00.0002159" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="c514a64c-050b-40cf-93c4-d21f1fe7e04e" testId="cab19b8b-474f-4517-86ef-4985f45872c3" testName="DoomFPS.Tests.Unit.BestiarioTests.ElJefeEsMuchoMasDuroQueCualquierOtro" computerName="vm" duration="00:00:00.0012024" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="7360fc74-8c8a-4a45-a79b-b27c3e731c8f" testId="1184af90-889f-448e-b29a-a78d98a8cd0c" testName="DoomFPS.Tests.Unit.BestiarioTests.ElEnemigoColocadoGuardaSuVidaMaxima" computerName="vm" duration="00:00:00.0003275" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="ebf46f27-f40c-4a28-bc8b-757a2d8f9e46" testId="865e7a9e-781c-432e-998b-4fa5b75bac0f" testName="DoomFPS.Tests.Unit.BestiarioTests.RecibirDanoDespiertaAlEnemigoYCambiaSuAnimacion" computerName="vm" duration="00:00:00.0001599" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="de32bf56-084e-42aa-b71c-aff9513d2c72" testId="2cb8f164-3114-4aed-8356-38acea11f88c" testName="DoomFPS.Tests.Unit.BestiarioTests.AlMorirElEnemigoPasaAlEstadoDeCadaverYCuentaSuAnimacion" computerName="vm" duration="00:00:00.0001027" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="75b01d82-aa7a-45e6-96e9-76eeae3942da" testId="8b5b8f1b-d21d-4e70-b368-c7d0bd81c63c" testName="DoomFPS.Tests.Unit.BestiarioTests.ElRelojDelEnemigoAvanzaSuAnimacion" computerName="vm" duration="00:00:00.0000800" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="364529c7-e35a-4053-a8e7-fa2c6e4c12ad" testId="1c7a2b06-8921-47a1-9f25-9e08f31c2d2f" testName="DoomFPS.Tests.Unit.BestiarioTests.ElAtaqueADistanciaSeReservaSinAplicarDano" computerName="vm" duration="00:00:00.0001400" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="230d9153-9080-468b-93a4-0e8c193ee502" testId="ad4f2435-1358-40cb-a118-e57939e4197b" testName="DoomFPS.Tests.Unit.BestiarioTests.LosVoladoresEstanMarcadosComoTales" computerName="vm" duration="00:00:00.0000528" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="ada72064-7994-4719-bcff-7a7cd38228db" testId="9c461990-7519-40d2-958d-d377553a4b63" testName="DoomFPS.Tests.Unit.BestiarioTests.ElEspectroEsSemitransparente" computerName="vm" duration="00:00:00.0000750" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="13bbd3d7-bbcd-4a68-b1d0-cb6b0804cfee" testId="c3a963b6-428d-45ff-b84d-9acc7674a0f0" testName="DoomFPS.Tests.Unit.CombatServiceTests.Escenario_EnemigoDerrotado_RegistraEnRepositorio" computerName="vm" duration="00:00:00.0151121" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="af512fc4-fcf7-4daa-8055-d44233391803" testId="088344f2-c469-480e-b1d5-cb9d88b77227" testName="DoomFPS.Tests.Unit.CombatServiceTests.Escenario_SinMunicion_NoRegistraDerrota" computerName="vm" duration="00:00:00.0008458" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="bb595e54-199b-45a9-8059-ce87f92abe17" testId="37f9bc36-238b-4d2a-8abd-a70ac2daf96c" testName="DoomFPS.Tests.Unit.CombatTests.Escenario_JugadorAciertaDisparo_ReduceVidaYMunicion" computerName="vm" duration="00:00:00.0001243" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="a046cbaf-4add-45b6-900e-3be6c9aaded2" testId="6ec9176a-2cc9-46c2-8e0c-fc45b2dfc41c" testName="DoomFPS.Tests.Unit.DoorTests.Escenario_PuertaRoja_SinLlave_NoAbre" computerName="vm" duration="00:00:00.0000690" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="8ea730a2-5a0c-4b80-afe3-7e76873f6e32" testId="8cfc9336-77ee-48bf-93a4-356738881a1b" testName="DoomFPS.Tests.Unit.DoorTests.Escenario_PuertaRoja_ConLlave_Abre" computerName="vm" duration="00:00:00.0000562" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="a5503539-a5d1-4a44-9efa-417ef96337f5" testId="7232f918-4241-4b55-935b-36eea8894210" testName="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.Kamikaze_AlmaPerdida_SeLanzaYExplotaContraElJugador" computerName="vm" duration="00:00:00.0012307" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="c63eed67-0d07-462f-a6ef-2106238368d6" testId="1e0d330e-96da-42e6-a435-4b622ac06429" testName="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.Charger_Demonio_SeAgazapaYEmbiste" computerName="vm" duration="00:00:00.0005620" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="20410694-c2f4-4b94-a307-023e67073565" testId="073c3e26-c4d1-4d96-896b-a5b8aaac98a9" testName="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.Charger_Demonio_EmbisteYMuerdeAlJugadorInmovil" computerName="vm" duration="00:00:00.0000260" outcome="NotExecuted" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>BUG-S09-001 abierto: la embestida del Demonio atraviesa al jugador inmóvil sin causar daño</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="9acbfce9-792f-46f7-90f6-cb6fb3326999" testId="4ca6d114-41d7-43cc-bdf7-840d19241bb2" testName="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.Charger_QueChocaContraLaParedQuedaAturdido" computerName="vm" duration="00:00:00.0015056" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="ad12f708-50f2-47cf-aee1-8cff5e80f6ec" testId="f5be840c-6444-47dc-9233-e0bee05c735a" testName="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.Circler_Espectro_OrbitaAlrededorDelJugador" computerName="vm" duration="00:00:00.0019867" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="2740e042-a038-452b-aa8d-ae5ea072118b" testId="26c1b9aa-4745-4c75-ae42-d612271a9968" testName="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.Circler_Espectro_AtacaCuerpoACuerpoAlJugadorInmovil" computerName="vm" duration="00:00:00.0000202" outcome="NotExecuted" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>BUG-S09-002 abierto: el Espectro orbita fuera de su alcance y nunca golpea a un jugador inmóvil</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="f36697cf-6f80-4883-a4a4-7507c87d0e04" testId="fdab5cfd-4456-41dd-8f05-154df70c2ee8" testName="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.Floater_Cacodemon_DisparaPlasmaADistancia" computerName="vm" duration="00:00:00.0010056" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="d0f7e9e2-b58f-4e75-8943-c5073885eb4d" testId="65bb2b6a-2f8c-41e1-b225-f1ff24728d13" testName="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.Sentinel_SePlantaYDisparaRafagas(Mancubus)" computerName="vm" duration="00:00:00.0005083" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="efffe76c-a03b-49c5-b80a-c92155a66061" testId="ee02b895-7a30-47e3-b95f-c6a803fecef9" testName="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.Sentinel_SePlantaYDisparaRafagas(CaballeroInfernal)" computerName="vm" duration="00:00:00.0003516" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="b77b7754-a1fc-4fb9-9447-8909bac90d7f" testId="b8c41844-b81c-4bd8-8a3b-c18d3c322dce" testName="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.ProyectilEnemigoDaniaAlJugador" computerName="vm" duration="00:00:00.0004188" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="05651414-979b-40cf-814b-4c1d0747cf5e" testId="8d002fe3-b764-406e-ab43-86845583f3ff" testName="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.Boss_Ciberdemonio_LanzaAndanadaDeCohetes" computerName="vm" duration="00:00:00.0009045" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="cc4dbdb7-6dac-4f73-a57e-7be8c97a256d" testId="ef7b2bfc-b683-4415-b1c0-76b266a84b0e" testName="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.Boss_EnSegundaFaseInvocaAlmasPerdidas" computerName="vm" duration="00:00:00.0006933" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="60892111-8d16-4f64-a172-04ac7acbeacc" testId="bdfa0576-e185-4fb3-9c4c-a44ffa1c7a3a" testName="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.Boss_ConPocaVidaPasaALaTerceraFase" computerName="vm" duration="00:00:00.0001724" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="07ffdc64-faf5-4dda-90de-f7835f5ed84a" testId="1678da86-3cc1-43b5-8332-0858395e8f5d" testName="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.Boss_PisotonCuerpoACuerpo" computerName="vm" duration="00:00:00.0001657" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="4e7551be-b8df-48f0-9cee-0b9e192caa2e" testId="0028fa71-511f-44d1-9ab8-a4f09b5d3830" testName="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.RecogerMunicionIncrementaSuReserva(Bullets, Bullets)" computerName="vm" duration="00:00:00.0001582" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="f33d7e6b-81bd-4bc0-829f-15e75b5d0af9" testId="6ba50314-6e6c-443e-a922-469ae25ca294" testName="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.RecogerMunicionIncrementaSuReserva(Cells, Cells)" computerName="vm" duration="00:00:00.0002525" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="33e7038f-0fee-478a-95ab-ad14674474bb" testId="98da602a-6a05-4843-91d9-d15c5440c388" testName="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.RecogerMunicionIncrementaSuReserva(Rockets, Rockets)" computerName="vm" duration="00:00:00.0000272" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="6fe2926e-a202-4844-bee7-81fb9e101c0f" testId="c006b5da-1de8-4af4-bcef-842883809f23" testName="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.RecogerMunicionIncrementaSuReserva(Ammo, Shells)" computerName="vm" duration="00:00:00.0000327" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="c5252ac9-660c-4a86-9c0b-075d29b1ad50" testId="81336816-926d-4507-a179-d1a015638021" testName="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.MegaesferaSobrecargaLaSaludHasta200" computerName="vm" duration="00:00:00.0001291" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="bd6cecda-0354-4835-b269-421df769a659" testId="8981ee70-78ef-4c1b-a004-ec60db032da6" testName="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.ArmaduraYMochilaSeAplicanUnaSolaVez" computerName="vm" duration="00:00:00.0001760" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="d907f230-b147-44ff-ace6-750e1dbfe928" testId="b40d5e9e-4e4f-4496-8b3d-53ebba16b24c" testName="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.BotiquinCuraSiHayDanio" computerName="vm" duration="00:00:00.0001502" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="02f543a9-a186-4c2d-9541-cee800f9bba5" testId="c5eb520d-206a-4ccc-ad01-6b62a0495fa6" testName="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.RecogerArmaLaEquipa(WeaponShotgun, Escopeta)" computerName="vm" duration="00:00:00.0002334" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="5fa373fa-c23c-4acf-8d75-08731a441ec2" testId="503515d9-89a1-4a5e-b092-e032efac5351" testName="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.RecogerArmaLaEquipa(WeaponDoubleShotgun, EscopetaDoble)" computerName="vm" duration="00:00:00.0002739" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="25dad23f-5e9f-4753-a06d-43cfbbae5110" testId="2cbe34b0-0499-4f53-afd0-93b778f89cfc" testName="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.RecogerArmaLaEquipa(WeaponMachinegun, Ametralladora)" computerName="vm" duration="00:00:00.0000409" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="3438a5e4-3130-41fd-809d-39219039dc7b" testId="1f283106-394c-4b33-93e3-f51dd1212a1c" testName="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.RecogerArmaLaEquipa(WeaponPlasma, Plasma)" computerName="vm" duration="00:00:00.0000258" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="ec80745f-8178-4a51-97d2-ce4350cce070" testId="aa0cfd8a-09ae-43b9-9297-f323eda21be1" testName="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.RecogerArmaLaEquipa(WeaponRocket, Lanzacohetes)" computerName="vm" duration="00:00:00.0000202" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="e868dc45-da1b-4e3b-86c5-df57ff305d3a" testId="98e89335-f616-4d62-860d-8e61b9a52968" testName="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.ArmaRepetidaSoloAportaMunicion" computerName="vm" duration="00:00:00.0003945" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="fe4199e5-848f-44b0-8e1d-e06e26de7d82" testId="d5b3380f-556d-4f99-a101-68f357377897" testName="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.TarjetaAmarillaSeGuardaEnInventario" computerName="vm" duration="00:00:00.0001135" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="fe3e4c2a-350e-484b-b6c3-5d2796bdc8b7" testId="fcecabb7-d257-42b0-b981-002e62d2ec6a" testName="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.CambiarDeRanuraEquipaOtraArmaYBloqueaElDisparo" computerName="vm" duration="00:00:00.0002960" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="69c5ae43-f65c-43e4-b8eb-4dab042c57e4" testId="dcca6246-3e2c-416d-b666-7b6eff8276c6" testName="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.RecargarRellenaElCargadorDesdeLaReserva" computerName="vm" duration="00:00:00.0004967" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="090c11f6-09d7-40ec-a7b2-c09a98cf29f9" testId="90035627-7b9c-498a-acd7-8a74b321767c" testName="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.CoheteDetonaYDaniaEnemigosEnElRadio" computerName="vm" duration="00:00:00.0009115" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="19c52adf-6c27-442f-9848-d7efa039dc52" testId="5074ee05-54dc-408e-a21a-046c99b9f181" testName="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.ObjetivoSinMisionGuiaPorTarjetasYAmenazas" computerName="vm" duration="00:00:00.0009948" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="746d6192-0fc2-4a82-9c1d-bfe50999d56b" testId="35f783f2-9087-4a1b-824d-d67b2e7064ff" testName="DoomFPS.Tests.Unit.PlayerAndWorldTests.VidaNoBajaDeCero" computerName="vm" duration="00:00:00.0000901" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="85c965ce-8449-4b9f-926c-b2b5df106f64" testId="e2ca3b3c-5ad1-4933-832a-4d6af9520f39" testName="DoomFPS.Tests.Unit.PlayerAndWorldTests.BotiquinNoSuperaCien" computerName="vm" duration="00:00:00.0000442" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="80ad6fd2-10e0-4c91-8ddb-74c0ea1e6e71" testId="d64c7866-8d4a-46a4-b207-71c4d9121975" testName="DoomFPS.Tests.Unit.PlayerAndWorldTests.BotiquinNoReviveJugadorMuerto" computerName="vm" duration="00:00:00.0000399" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="31ba2a85-f74b-45ec-8c88-de0a73bf0cbf" testId="fd35ef2f-3664-4ff1-bee2-ff80d1eb545d" testName="DoomFPS.Tests.Unit.PlayerAndWorldTests.DanoNegativoEsRechazado" computerName="vm" duration="00:00:00.0002203" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="f2ab14e7-7f66-4ee0-9a00-458a84e548e2" testId="ed7c5651-9c12-4502-89b7-9f4f7042f98f" testName="DoomFPS.Tests.Unit.PlayerAndWorldTests.MuertoNoPuedeDisparar" computerName="vm" duration="00:00:00.0000789" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="cc50e7dc-475e-449c-a368-17ab21eda5b4" testId="e6bd38cd-8097-4879-8cb4-871950bb070d" testName="DoomFPS.Tests.Unit.PlayerAndWorldTests.EnemigoMuertoNoConsumeMunicion" computerName="vm" duration="00:00:00.0000610" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="363a84f9-cdb1-4d86-8f10-71df4c0ce622" testId="2a2239c6-d9e5-4105-9a7e-b15b6abbadf4" testName="DoomFPS.Tests.Unit.PlayerAndWorldTests.AgregarTarjetaDosVecesNoLaDuplica" computerName="vm" duration="00:00:00.0000622" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="80c2f248-51d6-41fb-91e7-eede62a80352" testId="ed0ce5f6-8ede-4a50-82ea-f8d2148f4367" testName="DoomFPS.Tests.Unit.PlayerAndWorldTests.EnemigoRespetaTiempoEntreAtaques" computerName="vm" duration="00:00:00.0001080" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="45eefc32-d3ea-444b-a91a-45f5368ba860" testId="ea3c9acf-bd1a-4b6b-aa22-7864e8b1fef8" testName="DoomFPS.Tests.Unit.PlayerAndWorldTests.RayoDetectaMuroConDistanciaExacta" computerName="vm" duration="00:00:00.0002309" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="33e3efc6-f482-455a-a5fe-0d828dac4bc0" testId="a1107275-5fc4-4e45-8a72-1563292da064" testName="DoomFPS.Tests.Unit.PlayerAndWorldTests.RadioDeColisionImpideEntrarEnMuro" computerName="vm" duration="00:00:00.0000669" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="c2ecbc8d-d047-4f71-8028-2c4f4d53ec7a" testId="af47204a-692a-4004-9ce1-4c84c3823c92" testName="DoomFPS.Tests.Unit.PlayerAndWorldTests.PuertaCerradaBloqueaYAbiertaDejaPasar" computerName="vm" duration="00:00:00.0001768" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="35545cb9-4372-4608-a0ee-37732d7c546f" testId="6202491e-d794-4ebb-a503-3c32e3efcb16" testName="DoomFPS.Tests.Unit.ServiceRepositoryTests.EnemigoSeRegistraUnaSolaVezAunqueSeVuelvaADisparar" computerName="vm" duration="00:00:00.0048733" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="a077d757-6e14-4376-9e28-ad1b71c46320" testId="845c84d8-5ffc-4751-a457-4319ef1e5fde" testName="DoomFPS.Tests.Unit.ServiceRepositoryTests.GolpeNoLetalNoRegistraDerrota" computerName="vm" duration="00:00:00.0003842" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="45df1aaf-28f0-497b-ba5c-7c1fb12b32aa" testId="b10ff2e0-dddd-4261-8848-7b324a86051b" testName="DoomFPS.Tests.Unit.ServiceRepositoryTests.DosEnemigosDelMismoTipoSeCuentanPorSeparado" computerName="vm" duration="00:00:00.0012586" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="ae9fcd3b-f3ea-41fd-b148-e2b2f5faa23c" testId="543ccb73-482f-46b0-9509-0a09eba3ffd6" testName="DoomFPS.Tests.Unit.ServiceRepositoryTests.AbrirConLlaveCorrectaRegistraNombre" computerName="vm" duration="00:00:00.0005116" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <UnitTestResult executionId="a15de7ca-126d-49ff-a2b6-b5a8ed1a4db8" testId="0028ae22-a949-4804-957b-d9f02abc6b69" testName="DoomFPS.Tests.Unit.ServiceRepositoryTests.LlaveIncorrectaNoEscribeEnRepositorio" computerName="vm" duration="00:00:00.0002866" outcome="Passed" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="DoomFPS.Tests.Acceptance.MissionAcceptanceTests.ACE01_RelesHabilitanSalidaSinExigirTodasLasBajas" id="a158a846-630f-413d-abe3-681fc85a67b6">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Acceptance" />
+      </TestCategory>
+      <Execution id="e76a154a-86de-4533-bb5e-84e2a996e49a" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="MissionAcceptanceTests" name="ACE01_RelesHabilitanSalidaSinExigirTodasLasBajas" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Acceptance.MissionAcceptanceTests.ACE02_InterruptoresExigenElOrdenIndicado" id="7aca7c51-6318-4e00-8a98-75ac7b95d3fb">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Acceptance" />
+      </TestCategory>
+      <Execution id="d4f50184-8f0e-4f38-962b-dee4c3ebf351" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="MissionAcceptanceTests" name="ACE02_InterruptoresExigenElOrdenIndicado" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Acceptance.MissionAcceptanceTests.ACE03_SueloElectricoDaniaEnRojoPeroNoEnAzul" id="60872f0a-2f0c-4756-b692-d0571eb595d2">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Acceptance" />
+      </TestCategory>
+      <Execution id="22317226-e99e-4d45-8e49-a83b4986e785" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="MissionAcceptanceTests" name="ACE03_SueloElectricoDaniaEnRojoPeroNoEnAzul" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Acceptance.MissionAcceptanceTests.ACE04_DronSeDetieneSiMeAlejoYContinuaCuandoRegreso" id="0b5555cb-6782-4e1f-b4df-bb93df16edbe">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Acceptance" />
+      </TestCategory>
+      <Execution id="7b53ad50-d1f5-4e73-be8d-a418273ea539" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="MissionAcceptanceTests" name="ACE04_DronSeDetieneSiMeAlejoYContinuaCuandoRegreso" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Acceptance.MissionAcceptanceTests.ACE05_EscoltarDronHastaDestinoPermiteGanar" id="206759c5-aa51-4a9f-adf9-9e0b1ea694f0">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Acceptance" />
+      </TestCategory>
+      <Execution id="07a48265-8adb-4f1d-bc92-1fa5f53b812b" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="MissionAcceptanceTests" name="ACE05_EscoltarDronHastaDestinoPermiteGanar" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Acceptance.MissionAcceptanceTests.ACE06_ValvulasDetienenFugaAntesDelLimite" id="b2d9df65-7826-4d94-b8c2-7fe3f65078cc">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Acceptance" />
+      </TestCategory>
+      <Execution id="e78e3d1c-9f7f-48c7-8c24-7583db940600" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="MissionAcceptanceTests" name="ACE06_ValvulasDetienenFugaAntesDelLimite" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Acceptance.MissionAcceptanceTests.ACE07_FugaNoControladaTerminaEnDerrota" id="faf41d10-b328-4d9f-b7d6-f1993c308069">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Acceptance" />
+      </TestCategory>
+      <Execution id="9889c436-8265-4e64-b9be-ba1a76f37851" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="MissionAcceptanceTests" name="ACE07_FugaNoControladaTerminaEnDerrota" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Acceptance.MissionAcceptanceTests.ACE08_TransmisionSePausaFueraDeLaZonaSinPerderProgreso" id="8877a6be-343c-49ae-a4b4-c837310c1c0c">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Acceptance" />
+      </TestCategory>
+      <Execution id="c22bc92d-3c59-4139-a7c3-44e19b79a687" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="MissionAcceptanceTests" name="ACE08_TransmisionSePausaFueraDeLaZonaSinPerderProgreso" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Acceptance.MissionAcceptanceTests.ACE09_EnemigoCercanoInterrumpeTransmision" id="b0cee4fc-9072-410c-8790-8021f9ba7d30">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Acceptance" />
+      </TestCategory>
+      <Execution id="99fd4fdb-65a3-4889-93c7-87a8edbc1d47" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="MissionAcceptanceTests" name="ACE09_EnemigoCercanoInterrumpeTransmision" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Acceptance.MissionAcceptanceTests.ACE10_UltimaCargaIniciaCuentaAtrasYEscapeDaVictoria" id="aee991ca-9e03-4933-b9b3-a6f575a70c0b">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Acceptance" />
+      </TestCategory>
+      <Execution id="89134417-2ccc-4dda-8e92-31d93adf17d5" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="MissionAcceptanceTests" name="ACE10_UltimaCargaIniciaCuentaAtrasYEscapeDaVictoria" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Acceptance.MissionAcceptanceTests.ACE11_NoEscaparDeLaExplosionDaDerrota" id="c144b495-3a67-406a-a718-6f0c7262dc05">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Acceptance" />
+      </TestCategory>
+      <Execution id="53418f61-4f82-4525-961f-f63f0a2f6da6" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="MissionAcceptanceTests" name="ACE11_NoEscaparDeLaExplosionDaDerrota" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Acceptance.MissionAcceptanceTests.ACE12_PilaresProtegenJefeHastaDesactivarlos" id="394aafb3-a6e9-4f15-bc8e-da8b593dc432">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Acceptance" />
+      </TestCategory>
+      <Execution id="51da9c61-7623-43bb-b0ed-2716a56918fe" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="MissionAcceptanceTests" name="ACE12_PilaresProtegenJefeHastaDesactivarlos" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Acceptance.MissionAcceptanceTests.ACE13_PausaCongelaCuentaAtrasYObjetivos" id="9436d8db-598a-4e47-a710-c404027ce0bb">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Acceptance" />
+      </TestCategory>
+      <Execution id="177f6407-1041-4423-9de5-1a6436ba4656" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="MissionAcceptanceTests" name="ACE13_PausaCongelaCuentaAtrasYObjetivos" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Acceptance.MissionAcceptanceTests.ACE14_InteraccionRepetidaNoDuplicaObjetivo" id="bcba7077-b434-456b-94f8-179af7896804">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Acceptance" />
+      </TestCategory>
+      <Execution id="7d3098c1-7891-4608-9a7f-43208e6d1c85" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="MissionAcceptanceTests" name="ACE14_InteraccionRepetidaNoDuplicaObjetivo" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Acceptance.MissionAcceptanceTests.ACE15_NoPuedoActivarObjetivoDesdeLejos" id="55756c6e-5809-41d8-94aa-e958a059f063">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Acceptance" />
+      </TestCategory>
+      <Execution id="604d1b2d-4c44-4355-bc25-39b6a4613d5b" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="MissionAcceptanceTests" name="ACE15_NoPuedoActivarObjetivoDesdeLejos" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Acceptance.MissionAcceptanceTests.ACE16_MochilaYMunicionSeConservanEnElEquipo" id="d9cc14df-1043-4eff-acc5-dbd80470a748">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Acceptance" />
+      </TestCategory>
+      <Execution id="79e3c610-8f8a-4d29-9029-d5cbd349d7a2" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="MissionAcceptanceTests" name="ACE16_MochilaYMunicionSeConservanEnElEquipo" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Acceptance.MissionAcceptanceTests.ACE17_ReintentoBorraObjetivosYReiniciaCuentaAtras" id="46456895-5532-4eae-8812-1f21d9a8fdfb">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Acceptance" />
+      </TestCategory>
+      <Execution id="69b00ad6-c548-413c-aa6c-c179d975ba14" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="MissionAcceptanceTests" name="ACE17_ReintentoBorraObjetivosYReiniciaCuentaAtras" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Acceptance.SpaceshipAcceptanceTests.NAV01_MirarEnAmbosEjesNoDesplazaAlJugador" id="99d8df1c-5bc0-4cfa-80d3-5c021caa5294">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Acceptance" />
+      </TestCategory>
+      <Execution id="6fbb1daa-c562-4d7a-9245-a99b73ad3366" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="SpaceshipAcceptanceTests" name="NAV01_MirarEnAmbosEjesNoDesplazaAlJugador" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Acceptance.SpaceshipAcceptanceTests.NAV02_LimitesVerticalesYPausa" id="8c5c24f5-080d-43af-be62-edf89cd04cdb">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Acceptance" />
+      </TestCategory>
+      <Execution id="17920583-e3ab-45c6-acf6-12231bc64fb6" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="SpaceshipAcceptanceTests" name="NAV02_LimitesVerticalesYPausa" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Acceptance.SpaceshipAcceptanceTests.NAV03_DispararAlTechoNoImpactaAlEnemigoFrontal" id="c9c62d2c-f280-4ff1-bcd5-b632afb84a25">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Acceptance" />
+      </TestCategory>
+      <Execution id="49929731-3779-4b47-a6f7-3b229372c002" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="SpaceshipAcceptanceTests" name="NAV03_DispararAlTechoNoImpactaAlEnemigoFrontal" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Acceptance.SpaceshipAcceptanceTests.NAV04_PlasmaSigueLaAlturaDeLaMiraYChocaConElTecho" id="82f0b5d2-87ae-4b84-b2bc-6556143b1960">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Acceptance" />
+      </TestCategory>
+      <Execution id="79c22c9e-7be2-4f7f-b9e6-bcd1fd17b5a3" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="SpaceshipAcceptanceTests" name="NAV04_PlasmaSigueLaAlturaDeLaMiraYChocaConElTecho" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Acceptance.SpaceshipAcceptanceTests.NAV05_LosSietePlanosSonDistintosYLosVentanalesSonSolidos" id="c8ffd81f-b4a0-46bb-9eaa-d477e82d2194">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Acceptance" />
+      </TestCategory>
+      <Execution id="1cd445d2-d873-4f05-9892-18c41a8b57de" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="SpaceshipAcceptanceTests" name="NAV05_LosSietePlanosSonDistintosYLosVentanalesSonSolidos" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Acceptance.SpaceshipAcceptanceTests.NAV06_PerderPorImpactoAunqueElEscudoEsteDesactivado" id="531f42d8-a800-4478-bb37-71f3d6c300c1">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Acceptance" />
+      </TestCategory>
+      <Execution id="c9c2584f-342d-4b0f-b59d-58f1e18d4593" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="SpaceshipAcceptanceTests" name="NAV06_PerderPorImpactoAunqueElEscudoEsteDesactivado" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Acceptance.SpaceshipAcceptanceTests.NAV07_RecuperarElTimonATiempoSalvaLaNave" id="4aad33cf-9f0a-4cdf-b9fe-ba8eeb258300">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Acceptance" />
+      </TestCategory>
+      <Execution id="22b814ad-90cb-4fc9-abed-9325fc3d793e" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="SpaceshipAcceptanceTests" name="NAV07_RecuperarElTimonATiempoSalvaLaNave" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Acceptance.SpaceshipAcceptanceTests.NAV08_PuenteTieneCincoMinutosYReactorUnMinutoParaEvacuar" id="50a5eea0-a399-4940-871b-1e4db4a257e2">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Acceptance" />
+      </TestCategory>
+      <Execution id="74fa3b56-4768-4f28-b91c-06fa044205cf" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="SpaceshipAcceptanceTests" name="NAV08_PuenteTieneCincoMinutosYReactorUnMinutoParaEvacuar" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Integration.CampaignIntegrationTests.LaCampanaTieneSieteMisionesYLaUltimaEsLaDelJefe" id="b5dea26e-e2d1-47f8-8a67-9dffe1c90bef">
+      <Execution id="ba767178-97be-407d-8640-01753bf003a2" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="CampaignIntegrationTests" name="LaCampanaTieneSieteMisionesYLaUltimaEsLaDelJefe" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Integration.CampaignIntegrationTests.CadaMisionTieneMasEnemigosQueLaAnterior" id="f27321f7-2d30-4744-aba8-a97ba2d0ab06">
+      <Execution id="a9f4d140-6ecd-4d08-9c95-02805e21c325" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="CampaignIntegrationTests" name="CadaMisionTieneMasEnemigosQueLaAnterior" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Integration.CampaignIntegrationTests.LaVarietyDeEnemigosCreceALoLargoDeLaCampana" id="099d6cb3-76af-4d43-887b-0da4dddf6e69">
+      <Execution id="a35ead14-70cd-44e6-82f7-36712afd3a97" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="CampaignIntegrationTests" name="LaVarietyDeEnemigosCreceALoLargoDeLaCampana" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Integration.CampaignIntegrationTests.EnCadaMisionSePuedenAlcanzarLlaves_Puertas_YSalida" id="f31d4b8d-f739-45ba-91bb-df4c94d3af33">
+      <Execution id="6c2b5904-4839-4a06-bf0c-da86a3b88b10" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="CampaignIntegrationTests" name="EnCadaMisionSePuedenAlcanzarLlaves_Puertas_YSalida" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Integration.CampaignIntegrationTests.PasarDeMisionConservaExactamenteElEquipoDeLaMisionAnterior" id="2111a28a-ec56-4a1d-ac2a-512e33c48389">
+      <Execution id="716cdd3e-5bb4-4778-ade4-b0d382ac07a7" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="CampaignIntegrationTests" name="PasarDeMisionConservaExactamenteElEquipoDeLaMisionAnterior" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Integration.CampaignIntegrationTests.ReintentarDevuelveElEquipoDelInicioDeLaMision" id="e588a4b2-5cca-4ec8-a17b-520409ee8d8e">
+      <Execution id="f57a1860-973c-40de-b963-28244a159417" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="CampaignIntegrationTests" name="ReintentarDevuelveElEquipoDelInicioDeLaMision" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Integration.CampaignIntegrationTests.ElResumenDeCadaMisionSeGuardaEnElRepositorio" id="254838dc-5951-4334-bd63-b70c49c03d8f">
+      <Execution id="293a9035-80bb-4fa4-a9d4-406ee0e6f8bd" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="CampaignIntegrationTests" name="ElResumenDeCadaMisionSeGuardaEnElRepositorio" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Integration.CampaignIntegrationTests.LaSalidaDelJefeExigeMatarAlCiberdemonio" id="ab62f92f-1861-45d4-832b-4f8d593aacad">
+      <Execution id="0ab70863-abe4-4347-b91e-1072a79399fa" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="CampaignIntegrationTests" name="LaSalidaDelJefeExigeMatarAlCiberdemonio" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Integration.CampaignIntegrationTests.LaPrimeraMisionSeCompletaConUnBotQueCaminaYDispara" id="32d35047-2200-46df-81c8-e1a0f60c4ebc">
+      <Execution id="bae51834-f4ae-4930-bb1f-6b9579976ae6" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="CampaignIntegrationTests" name="LaPrimeraMisionSeCompletaConUnBotQueCaminaYDispara" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Integration.FpsGameIntegrationTests.DisparoVisibleReduceVidaYConsumeUnCartucho" id="b6e2d580-fe1b-4439-bcf9-50fc3aaf2120">
+      <Execution id="7c27bb84-21e7-4edf-9225-2b76628b1c98" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="FpsGameIntegrationTests" name="DisparoVisibleReduceVidaYConsumeUnCartucho" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Integration.FpsGameIntegrationTests.DisparoFallidoTambienConsumeMunicion" id="9e5c0589-9010-4565-a7f1-f7a0b7f6974f">
+      <Execution id="ef089148-ea88-42cb-8f9c-46e02fc8ae67" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="FpsGameIntegrationTests" name="DisparoFallidoTambienConsumeMunicion" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Integration.FpsGameIntegrationTests.DisparoNoAtraviesaPared" id="2f2120df-c215-40d6-acad-894a6270fd51">
+      <Execution id="5bd2eabd-8e72-42ef-b9cf-02291d1aa555" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="FpsGameIntegrationTests" name="DisparoNoAtraviesaPared" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Integration.FpsGameIntegrationTests.DisparoSoloDaniaEnemigoMasCercano" id="6dacf8ee-5d92-4aa4-b65f-9ebe4ac9b067">
+      <Execution id="d41f16a5-9d2b-4505-890b-8eaa2cfdcda8" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="FpsGameIntegrationTests" name="DisparoSoloDaniaEnemigoMasCercano" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Integration.FpsGameIntegrationTests.MantenerDisparoRespetaCadencia" id="3bfc147d-9b76-4bbc-ad59-44eef4802ceb">
+      <Execution id="14586758-f9c9-4465-9c33-892c645cb5a5" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="FpsGameIntegrationTests" name="MantenerDisparoRespetaCadencia" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Integration.FpsGameIntegrationTests.SinMunicionNoDaniaAlEnemigo" id="d3b03c8c-b78f-4b43-ae19-5c7cee9e39d5">
+      <Execution id="b6764f9f-4d20-4015-a66b-241829c246d8" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="FpsGameIntegrationTests" name="SinMunicionNoDaniaAlEnemigo" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Integration.FpsGameIntegrationTests.PausaCongelaTiempoPosicionMunicionYEnemigos" id="18470e98-0ec7-4a42-9afe-14aa2122a161">
+      <Execution id="418405fb-d31e-46dc-93ce-7dac3bb92344" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="FpsGameIntegrationTests" name="PausaCongelaTiempoPosicionMunicionYEnemigos" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Integration.FpsGameIntegrationTests.MovimientoDiagonalNoEsMasRapido" id="18dd7f7a-227a-4959-9ea5-c30a3d124262">
+      <Execution id="afe62e5c-b03e-4d72-8198-152ce5bb32ad" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="FpsGameIntegrationTests" name="MovimientoDiagonalNoEsMasRapido" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Integration.FpsGameIntegrationTests.MovimientoNoCruzaPared" id="d33ecf4b-a800-455a-9ef8-e4a7b09dac49">
+      <Execution id="6f925574-9e03-4da5-a0b2-ae1e0c0abc26" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="FpsGameIntegrationTests" name="MovimientoNoCruzaPared" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Integration.FpsGameIntegrationTests.RecogerTarjetaSeProcesaUnaSolaVez" id="8cdd975e-fb71-4da0-8387-e6e4bf3b6c4e">
+      <Execution id="c39b6a66-af87-48c4-96c2-d1a1414ea4e0" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="FpsGameIntegrationTests" name="RecogerTarjetaSeProcesaUnaSolaVez" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Integration.FpsGameIntegrationTests.BotiquinSeConservaSiLaSaludEstaCompleta" id="0ef2b81a-d643-4826-921d-ec7ccd60f92f">
+      <Execution id="d4c7767c-42d6-44b9-abbf-4d6852c737d1" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="FpsGameIntegrationTests" name="BotiquinSeConservaSiLaSaludEstaCompleta" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Integration.FpsGameIntegrationTests.EnemigoSinVisionNoHaceDanoATravesDePared" id="125ceb96-a48b-4a99-bf77-aade5b263a0f">
+      <Execution id="7194cfb9-7eb4-44ea-953e-91b933ee0bc4" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="FpsGameIntegrationTests" name="EnemigoSinVisionNoHaceDanoATravesDePared" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Integration.FpsGameIntegrationTests.SaludCeroFinalizaLaPartida" id="89f47134-bf46-49fa-be9a-9d1975e0ca1d">
+      <Execution id="44fddb36-952f-4ade-9e2a-262f986ed2c8" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="FpsGameIntegrationTests" name="SaludCeroFinalizaLaPartida" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Integration.FpsGameIntegrationTests.SalidaSinEnemigosProduceVictoria" id="54ca002a-aa36-4088-866b-664c05376b9e">
+      <Execution id="1f80dd0c-f77d-4ff8-b3fe-966f349eb377" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="FpsGameIntegrationTests" name="SalidaSinEnemigosProduceVictoria" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Integration.FpsGameIntegrationTests.SalidaConEnemigosVivosNoProduceVictoria" id="01f3d184-eae1-4c62-b8c9-fca7a984918f">
+      <Execution id="8ae26d5b-735d-4f72-9ccd-fa7eee81e818" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="FpsGameIntegrationTests" name="SalidaConEnemigosVivosNoProduceVictoria" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Integration.FpsGameIntegrationTests.NuevoJuegoNoHeredaBajasNiTarjetas" id="d64685bf-ff05-4fc3-917e-071193fa2955">
+      <Execution id="e5231938-d8fa-4260-a886-7ce000182f1f" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="FpsGameIntegrationTests" name="NuevoJuegoNoHeredaBajasNiTarjetas" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Integration.FullMissionIntegrationTests.NivelReal_RecogerTarjetas_AbrirPuertas_EliminarEnemigos_LlegarASalida" id="b616c76b-3791-44bc-8439-53be144bae93">
+      <Execution id="fe95cafa-7e21-47b2-92be-9ec4eb860647" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="FullMissionIntegrationTests" name="NivelReal_RecogerTarjetas_AbrirPuertas_EliminarEnemigos_LlegarASalida" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Integration.GameFlowIntegrationTests.Escenario_FlujoCompleto_AbrirPuertaYDerrotarEnemigo" id="2cd09224-844a-458e-8b7f-f7f11957f597">
+      <Execution id="a42abe3e-c511-4d07-996e-f226a54b68e1" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="GameFlowIntegrationTests" name="Escenario_FlujoCompleto_AbrirPuertaYDerrotarEnemigo" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Integration.GameFlowIntegrationTests.Escenario_LlaveIncorrecta_PuertaNoQuedaRegistradaComoAbierta" id="980a8a31-d73d-4a9c-862c-beb98aba0962">
+      <Execution id="f4ad3378-d913-4ea3-a640-482b8a79525c" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="GameFlowIntegrationTests" name="Escenario_LlaveIncorrecta_PuertaNoQuedaRegistradaComoAbierta" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Integration.PersistenceIntegrationTests.PerfilCreadoSePersisteEnDiscoYSeRecargaEnOtraSesion" id="d9cb4644-4365-40b2-822a-1c38b26aa1fc">
+      <Execution id="3b13bae3-d380-43fd-b186-d08c8489d290" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="PersistenceIntegrationTests" name="PerfilCreadoSePersisteEnDiscoYSeRecargaEnOtraSesion" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Integration.PersistenceIntegrationTests.AdminSiempreEsAdministradorYPuedeElegirMision" id="291bb045-7bc5-447d-b6d0-4f1af62f058a">
+      <Execution id="7a5221a4-2ba2-4bd1-9fba-0f5cb0af50ec" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="PersistenceIntegrationTests" name="AdminSiempreEsAdministradorYPuedeElegirMision" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Integration.PersistenceIntegrationTests.CrearDosVecesElMismoNombreNoDuplica" id="78febafb-a838-41af-8e37-82eda8bd74ec">
+      <Execution id="cf23e3ac-09ae-4c00-8eae-e2245ce46193" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="PersistenceIntegrationTests" name="CrearDosVecesElMismoNombreNoDuplica" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Integration.PersistenceIntegrationTests.BorrarPerfilLimpiaElUltimoUsado" id="b167027f-87a0-4b5b-9008-5dbf8da80c98">
+      <Execution id="192d5ace-8b97-4ccc-ba4b-fbf5cea0b772" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="PersistenceIntegrationTests" name="BorrarPerfilLimpiaElUltimoUsado" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Integration.PersistenceIntegrationTests.ArchivoCorruptoNoImpideJugar" id="fa153889-d6a5-4177-829e-c805ca472169">
+      <Execution id="3a2822f2-7991-4849-a90b-ac5934e794d6" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="PersistenceIntegrationTests" name="ArchivoCorruptoNoImpideJugar" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Integration.PersistenceIntegrationTests.GuardadoDeCampanaSobreviveAlDiscoYSeReanuda" id="ee5ebf2e-d995-429c-aded-3753f7eef1b9">
+      <Execution id="07c7346d-f2d5-4e28-a2a1-e7e5a2fedadf" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="PersistenceIntegrationTests" name="GuardadoDeCampanaSobreviveAlDiscoYSeReanuda" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Integration.PersistenceIntegrationTests.CuentaLocalRegistraSesionEHistorialOrdenado" id="e487bdf1-8ce0-48c0-9d93-8aeab0cea423">
+      <Execution id="aba8b7eb-2a9b-493c-930d-6813533a26a0" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="PersistenceIntegrationTests" name="CuentaLocalRegistraSesionEHistorialOrdenado" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Integration.PersistenceIntegrationTests.FirebaseSinConfigurarRechazaElInicioDeSesion" id="cf8fbd82-2c79-47aa-9e28-fc795fcbe851">
+      <Execution id="b45c409b-893d-4ad9-92af-13d25454190d" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="PersistenceIntegrationTests" name="FirebaseSinConfigurarRechazaElInicioDeSesion" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Integration.PersistenceIntegrationTests.FirebaseRegistroCreaSesionRemotaYPerfil" id="eb8028c9-9655-4c58-8cb3-75564d1b89f1">
+      <Execution id="44e37b63-becb-4aab-827f-9fd385b27766" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="PersistenceIntegrationTests" name="FirebaseRegistroCreaSesionRemotaYPerfil" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Integration.PersistenceIntegrationTests.FirebaseTraduceErroresDeCredenciales" id="799adf92-2749-4cb6-b144-56dd82e68f1e">
+      <Execution id="28069588-b8a6-4753-919b-97352b59cd1b" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="PersistenceIntegrationTests" name="FirebaseTraduceErroresDeCredenciales" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Integration.PersistenceIntegrationTests.FirebaseGuardaPuntajeSoloConSesion" id="8b39c7ae-777f-4be7-b536-91291e1f0d2a">
+      <Execution id="c51c1800-7f50-47e4-8f9e-d6b33f2e8707" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="PersistenceIntegrationTests" name="FirebaseGuardaPuntajeSoloConSesion" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Integration.PersistenceIntegrationTests.FirebaseHistorialDevuelveElPuntajeGuardado" id="ded1e0ea-1c61-47ef-9d50-8a856f07b34d">
+      <Execution id="c2694b86-a904-446b-a467-768c54b8158e" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="PersistenceIntegrationTests" name="FirebaseHistorialDevuelveElPuntajeGuardado" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Smoke.SmokeTests.HUM01_IniciarCampanaConDependenciasReales" id="045513d9-d44b-41e6-a610-5a1a76261553">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Smoke" />
+      </TestCategory>
+      <Execution id="6aa1a9e6-8d9a-4a00-ae63-45718d916756" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="SmokeTests" name="HUM01_IniciarCampanaConDependenciasReales" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Smoke.SmokeTests.HUM02_SeCarganLosSieteMapasYObjetivos" id="894ce6a6-0102-4d6b-9d3e-189f9abf6af9">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Smoke" />
+      </TestCategory>
+      <Execution id="f092f69b-4a78-4554-ac9d-7d7c7794a6c1" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="SmokeTests" name="HUM02_SeCarganLosSieteMapasYObjetivos" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Smoke.SmokeTests.HUM03_ElJugadorSeMueveYDispara" id="106d7fd8-5f7f-45f2-b9f8-c1a34c7b9a58">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Smoke" />
+      </TestCategory>
+      <Execution id="00228508-40a9-4411-83f6-ece6b9fbb5ff" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="SmokeTests" name="HUM03_ElJugadorSeMueveYDispara" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Smoke.SmokeTests.HUM04_InteraccionActualizaObjetivo" id="79d5a2a9-6be1-451f-bf21-cbe5de1e3643">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Smoke" />
+      </TestCategory>
+      <Execution id="4170f640-e11a-4b91-a794-32681f3d56b4" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="SmokeTests" name="HUM04_InteraccionActualizaObjetivo" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Smoke.SmokeTests.HUM05_PausaYReanudacionFuncionan" id="cbb045d6-6009-4d72-a305-0d19d4666029">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Smoke" />
+      </TestCategory>
+      <Execution id="8c16fd59-6f52-4084-aecb-a13975639bfc" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="SmokeTests" name="HUM05_PausaYReanudacionFuncionan" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Smoke.SmokeTests.HUM06_ReintentarRestableceMision" id="963e3641-9495-4060-b379-b37b2d63c08a">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Smoke" />
+      </TestCategory>
+      <Execution id="7c2eafbd-0ebc-43bc-9edf-9c0cc1b0f6c3" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="SmokeTests" name="HUM06_ReintentarRestableceMision" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Smoke.SmokeTests.HUM07_ModoPracticaCargaCualquierMision" id="732be1f4-40b0-4f0c-9970-2183cb1c88fe">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Smoke" />
+      </TestCategory>
+      <Execution id="71b7c9f7-d7f1-46df-9854-005519fef63d" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="SmokeTests" name="HUM07_ModoPracticaCargaCualquierMision" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.ArsenalTests.CadaArmaTieneRanuraYMunicionPropias" id="f446d4ec-9137-4c5b-bf88-cfcf69880cb1">
+      <Execution id="136db2b9-9e53-4aed-a934-1ff0ad050bb3" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="ArsenalTests" name="CadaArmaTieneRanuraYMunicionPropias" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.ArsenalTests.LaEscopetaGastaUnCartuchoYLaRecortadaDos" id="2799bbf8-acf7-4310-9857-e5161a33b72a">
+      <Execution id="b0b8401a-9a76-4d85-9337-ca813bd9cade" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="ArsenalTests" name="LaEscopetaGastaUnCartuchoYLaRecortadaDos" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.ArsenalTests.RecogerUnArmaLaEquipaYNoSeDuplica" id="d4dca490-6080-4fb3-b393-42766d1a7f5b">
+      <Execution id="d74ad766-141f-409a-8753-5ba42363beee" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="ArsenalTests" name="RecogerUnArmaLaEquipaYNoSeDuplica" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.ArsenalTests.LasRanurasSeleccionanElArmaCorrecta" id="d8dc0456-bbde-4a54-82c5-0ca48abd0ff3">
+      <Execution id="7bb2c65e-78c1-4f6b-85e4-a2e92345a90c" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="ArsenalTests" name="LasRanurasSeleccionanElArmaCorrecta" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.ArsenalTests.CadaTipoDeMunicionSeGuardaPorSeparado" id="38879f07-4993-4639-ab1a-cc5b0153c355">
+      <Execution id="45b01445-2f84-4c94-946f-89407c6d57dc" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="ArsenalTests" name="CadaTipoDeMunicionSeGuardaPorSeparado" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.ArsenalTests.LaMunicionNoPasaDelTopeYLaMochilaLoDuplica" id="e957252d-899c-4d4e-bc32-6dd6bbbf1d50">
+      <Execution id="c559502b-2802-4bf2-b813-66187d9153b8" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="ArsenalTests" name="LaMunicionNoPasaDelTopeYLaMochilaLoDuplica" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.ArsenalTests.LaArmaduraAbsorbeParteDelGolpe" id="d502c0d0-1c2d-48da-812f-5e3734316e3f">
+      <Execution id="f0bef894-0523-4a18-a303-ffc3ca78b4df" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="ArsenalTests" name="LaArmaduraAbsorbeParteDelGolpe" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.ArsenalTests.SinArmaduraElDanoEsElOriginal" id="21e2347c-b151-46d2-a942-53b91372a033">
+      <Execution id="efb434c9-fc51-48f5-9402-b8a325e1ed5c" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="ArsenalTests" name="SinArmaduraElDanoEsElOriginal" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.ArsenalTests.LaMegaesferaSobrecargaLaSaludHastaDoscientos" id="bf8c03e4-ccf4-4bc4-ab7f-ea476d77c541">
+      <Execution id="9cdc9606-ee6d-4b2b-aa9f-962b02c36d11" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="ArsenalTests" name="LaMegaesferaSobrecargaLaSaludHastaDoscientos" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.ArsenalTests.ElEquipoViajaDeUnaMisionALaSiguiente" id="670c8582-b6a5-4dc6-a659-a95ce32fb6e7">
+      <Execution id="22863150-4f34-4f49-9084-4c62bd115895" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="ArsenalTests" name="ElEquipoViajaDeUnaMisionALaSiguiente" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.ArsenalTests.ElProyectilNoAceptaDireccionNula" id="4c9e0f20-27bc-4a1c-bf69-ed6688e8613f">
+      <Execution id="63ab5eca-99b7-4b5a-8570-aed1ac6ecf36" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="ArsenalTests" name="ElProyectilNoAceptaDireccionNula" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.ArsenalTests.ElProyectilAvanzaEnLineaRecta" id="4eb490b9-4240-4ce0-98dc-549a0bfbeb39">
+      <Execution id="20717541-4428-47bc-bd07-ca9a09382d5f" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="ArsenalTests" name="ElProyectilAvanzaEnLineaRecta" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.BestiarioTests.HayNueveEspeciesYNingunaRepiteNombre" id="521db3b4-56be-433a-a068-0f2eeff686f6">
+      <Execution id="89578242-ea3a-4a50-8d89-a581d84784b8" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="BestiarioTests" name="HayNueveEspeciesYNingunaRepiteNombre" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.BestiarioTests.CadaEspecieUsaSuPropioPatronDeMovimientoOAtaque" id="d0efcf7c-810d-4f0e-8844-c0f97bc40dc4">
+      <Execution id="a3b5f591-bbbe-4b16-aa18-cb8e59bc6bd1" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="BestiarioTests" name="CadaEspecieUsaSuPropioPatronDeMovimientoOAtaque" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.BestiarioTests.LaDificultadEscalaVidaDanoYVelocidad" id="bed76448-300a-40e9-89d9-94240467ee66">
+      <Execution id="e7b3fcb5-444d-4d42-9d0f-97eab8fe0744" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="BestiarioTests" name="LaDificultadEscalaVidaDanoYVelocidad" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.BestiarioTests.ElJefeEsMuchoMasDuroQueCualquierOtro" id="cab19b8b-474f-4517-86ef-4985f45872c3">
+      <Execution id="c514a64c-050b-40cf-93c4-d21f1fe7e04e" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="BestiarioTests" name="ElJefeEsMuchoMasDuroQueCualquierOtro" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.BestiarioTests.ElEnemigoColocadoGuardaSuVidaMaxima" id="1184af90-889f-448e-b29a-a78d98a8cd0c">
+      <Execution id="7360fc74-8c8a-4a45-a79b-b27c3e731c8f" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="BestiarioTests" name="ElEnemigoColocadoGuardaSuVidaMaxima" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.BestiarioTests.RecibirDanoDespiertaAlEnemigoYCambiaSuAnimacion" id="865e7a9e-781c-432e-998b-4fa5b75bac0f">
+      <Execution id="ebf46f27-f40c-4a28-bc8b-757a2d8f9e46" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="BestiarioTests" name="RecibirDanoDespiertaAlEnemigoYCambiaSuAnimacion" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.BestiarioTests.AlMorirElEnemigoPasaAlEstadoDeCadaverYCuentaSuAnimacion" id="2cb8f164-3114-4aed-8356-38acea11f88c">
+      <Execution id="de32bf56-084e-42aa-b71c-aff9513d2c72" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="BestiarioTests" name="AlMorirElEnemigoPasaAlEstadoDeCadaverYCuentaSuAnimacion" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.BestiarioTests.ElRelojDelEnemigoAvanzaSuAnimacion" id="8b5b8f1b-d21d-4e70-b368-c7d0bd81c63c">
+      <Execution id="75b01d82-aa7a-45e6-96e9-76eeae3942da" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="BestiarioTests" name="ElRelojDelEnemigoAvanzaSuAnimacion" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.BestiarioTests.ElAtaqueADistanciaSeReservaSinAplicarDano" id="1c7a2b06-8921-47a1-9f25-9e08f31c2d2f">
+      <Execution id="364529c7-e35a-4053-a8e7-fa2c6e4c12ad" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="BestiarioTests" name="ElAtaqueADistanciaSeReservaSinAplicarDano" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.BestiarioTests.LosVoladoresEstanMarcadosComoTales" id="ad4f2435-1358-40cb-a118-e57939e4197b">
+      <Execution id="230d9153-9080-468b-93a4-0e8c193ee502" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="BestiarioTests" name="LosVoladoresEstanMarcadosComoTales" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.BestiarioTests.ElEspectroEsSemitransparente" id="9c461990-7519-40d2-958d-d377553a4b63">
+      <Execution id="ada72064-7994-4719-bcff-7a7cd38228db" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="BestiarioTests" name="ElEspectroEsSemitransparente" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.CombatServiceTests.Escenario_EnemigoDerrotado_RegistraEnRepositorio" id="c3a963b6-428d-45ff-b84d-9acc7674a0f0">
+      <Execution id="13bbd3d7-bbcd-4a68-b1d0-cb6b0804cfee" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="CombatServiceTests" name="Escenario_EnemigoDerrotado_RegistraEnRepositorio" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.CombatServiceTests.Escenario_SinMunicion_NoRegistraDerrota" id="088344f2-c469-480e-b1d5-cb9d88b77227">
+      <Execution id="af512fc4-fcf7-4daa-8055-d44233391803" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="CombatServiceTests" name="Escenario_SinMunicion_NoRegistraDerrota" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.CombatTests.Escenario_JugadorAciertaDisparo_ReduceVidaYMunicion" id="37f9bc36-238b-4d2a-8abd-a70ac2daf96c">
+      <Execution id="bb595e54-199b-45a9-8059-ce87f92abe17" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="CombatTests" name="Escenario_JugadorAciertaDisparo_ReduceVidaYMunicion" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.DoorTests.Escenario_PuertaRoja_SinLlave_NoAbre" id="6ec9176a-2cc9-46c2-8e0c-fc45b2dfc41c">
+      <Execution id="a046cbaf-4add-45b6-900e-3be6c9aaded2" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="DoorTests" name="Escenario_PuertaRoja_SinLlave_NoAbre" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.DoorTests.Escenario_PuertaRoja_ConLlave_Abre" id="8cfc9336-77ee-48bf-93a4-356738881a1b">
+      <Execution id="8ea730a2-5a0c-4b80-afe3-7e76873f6e32" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="DoorTests" name="Escenario_PuertaRoja_ConLlave_Abre" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.Kamikaze_AlmaPerdida_SeLanzaYExplotaContraElJugador" id="7232f918-4241-4b55-935b-36eea8894210">
+      <Execution id="a5503539-a5d1-4a44-9efa-417ef96337f5" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="EnemyAIAndPickupTests" name="Kamikaze_AlmaPerdida_SeLanzaYExplotaContraElJugador" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.Charger_Demonio_SeAgazapaYEmbiste" id="1e0d330e-96da-42e6-a435-4b622ac06429">
+      <Execution id="c63eed67-0d07-462f-a6ef-2106238368d6" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="EnemyAIAndPickupTests" name="Charger_Demonio_SeAgazapaYEmbiste" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.Charger_Demonio_EmbisteYMuerdeAlJugadorInmovil" id="073c3e26-c4d1-4d96-896b-a5b8aaac98a9">
+      <Execution id="20410694-c2f4-4b94-a307-023e67073565" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="EnemyAIAndPickupTests" name="Charger_Demonio_EmbisteYMuerdeAlJugadorInmovil" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.Charger_QueChocaContraLaParedQuedaAturdido" id="4ca6d114-41d7-43cc-bdf7-840d19241bb2">
+      <Execution id="9acbfce9-792f-46f7-90f6-cb6fb3326999" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="EnemyAIAndPickupTests" name="Charger_QueChocaContraLaParedQuedaAturdido" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.Circler_Espectro_OrbitaAlrededorDelJugador" id="f5be840c-6444-47dc-9233-e0bee05c735a">
+      <Execution id="ad12f708-50f2-47cf-aee1-8cff5e80f6ec" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="EnemyAIAndPickupTests" name="Circler_Espectro_OrbitaAlrededorDelJugador" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.Circler_Espectro_AtacaCuerpoACuerpoAlJugadorInmovil" id="26c1b9aa-4745-4c75-ae42-d612271a9968">
+      <Execution id="2740e042-a038-452b-aa8d-ae5ea072118b" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="EnemyAIAndPickupTests" name="Circler_Espectro_AtacaCuerpoACuerpoAlJugadorInmovil" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.Floater_Cacodemon_DisparaPlasmaADistancia" id="fdab5cfd-4456-41dd-8f05-154df70c2ee8">
+      <Execution id="f36697cf-6f80-4883-a4a4-7507c87d0e04" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="EnemyAIAndPickupTests" name="Floater_Cacodemon_DisparaPlasmaADistancia" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.Sentinel_SePlantaYDisparaRafagas(Mancubus)" id="65bb2b6a-2f8c-41e1-b225-f1ff24728d13">
+      <Execution id="d0f7e9e2-b58f-4e75-8943-c5073885eb4d" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="EnemyAIAndPickupTests" name="Sentinel_SePlantaYDisparaRafagas" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.Sentinel_SePlantaYDisparaRafagas(CaballeroInfernal)" id="ee02b895-7a30-47e3-b95f-c6a803fecef9">
+      <Execution id="efffe76c-a03b-49c5-b80a-c92155a66061" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="EnemyAIAndPickupTests" name="Sentinel_SePlantaYDisparaRafagas" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.ProyectilEnemigoDaniaAlJugador" id="b8c41844-b81c-4bd8-8a3b-c18d3c322dce">
+      <Execution id="b77b7754-a1fc-4fb9-9447-8909bac90d7f" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="EnemyAIAndPickupTests" name="ProyectilEnemigoDaniaAlJugador" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.Boss_Ciberdemonio_LanzaAndanadaDeCohetes" id="8d002fe3-b764-406e-ab43-86845583f3ff">
+      <Execution id="05651414-979b-40cf-814b-4c1d0747cf5e" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="EnemyAIAndPickupTests" name="Boss_Ciberdemonio_LanzaAndanadaDeCohetes" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.Boss_EnSegundaFaseInvocaAlmasPerdidas" id="ef7b2bfc-b683-4415-b1c0-76b266a84b0e">
+      <Execution id="cc4dbdb7-6dac-4f73-a57e-7be8c97a256d" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="EnemyAIAndPickupTests" name="Boss_EnSegundaFaseInvocaAlmasPerdidas" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.Boss_ConPocaVidaPasaALaTerceraFase" id="bdfa0576-e185-4fb3-9c4c-a44ffa1c7a3a">
+      <Execution id="60892111-8d16-4f64-a172-04ac7acbeacc" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="EnemyAIAndPickupTests" name="Boss_ConPocaVidaPasaALaTerceraFase" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.Boss_PisotonCuerpoACuerpo" id="1678da86-3cc1-43b5-8332-0858395e8f5d">
+      <Execution id="07ffdc64-faf5-4dda-90de-f7835f5ed84a" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="EnemyAIAndPickupTests" name="Boss_PisotonCuerpoACuerpo" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.RecogerMunicionIncrementaSuReserva(Bullets, Bullets)" id="0028fa71-511f-44d1-9ab8-a4f09b5d3830">
+      <Execution id="4e7551be-b8df-48f0-9cee-0b9e192caa2e" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="EnemyAIAndPickupTests" name="RecogerMunicionIncrementaSuReserva" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.RecogerMunicionIncrementaSuReserva(Cells, Cells)" id="6ba50314-6e6c-443e-a922-469ae25ca294">
+      <Execution id="f33d7e6b-81bd-4bc0-829f-15e75b5d0af9" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="EnemyAIAndPickupTests" name="RecogerMunicionIncrementaSuReserva" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.RecogerMunicionIncrementaSuReserva(Rockets, Rockets)" id="98da602a-6a05-4843-91d9-d15c5440c388">
+      <Execution id="33e7038f-0fee-478a-95ab-ad14674474bb" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="EnemyAIAndPickupTests" name="RecogerMunicionIncrementaSuReserva" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.RecogerMunicionIncrementaSuReserva(Ammo, Shells)" id="c006b5da-1de8-4af4-bcef-842883809f23">
+      <Execution id="6fe2926e-a202-4844-bee7-81fb9e101c0f" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="EnemyAIAndPickupTests" name="RecogerMunicionIncrementaSuReserva" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.MegaesferaSobrecargaLaSaludHasta200" id="81336816-926d-4507-a179-d1a015638021">
+      <Execution id="c5252ac9-660c-4a86-9c0b-075d29b1ad50" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="EnemyAIAndPickupTests" name="MegaesferaSobrecargaLaSaludHasta200" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.ArmaduraYMochilaSeAplicanUnaSolaVez" id="8981ee70-78ef-4c1b-a004-ec60db032da6">
+      <Execution id="bd6cecda-0354-4835-b269-421df769a659" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="EnemyAIAndPickupTests" name="ArmaduraYMochilaSeAplicanUnaSolaVez" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.BotiquinCuraSiHayDanio" id="b40d5e9e-4e4f-4496-8b3d-53ebba16b24c">
+      <Execution id="d907f230-b147-44ff-ace6-750e1dbfe928" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="EnemyAIAndPickupTests" name="BotiquinCuraSiHayDanio" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.RecogerArmaLaEquipa(WeaponShotgun, Escopeta)" id="c5eb520d-206a-4ccc-ad01-6b62a0495fa6">
+      <Execution id="02f543a9-a186-4c2d-9541-cee800f9bba5" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="EnemyAIAndPickupTests" name="RecogerArmaLaEquipa" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.RecogerArmaLaEquipa(WeaponDoubleShotgun, EscopetaDoble)" id="503515d9-89a1-4a5e-b092-e032efac5351">
+      <Execution id="5fa373fa-c23c-4acf-8d75-08731a441ec2" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="EnemyAIAndPickupTests" name="RecogerArmaLaEquipa" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.RecogerArmaLaEquipa(WeaponMachinegun, Ametralladora)" id="2cbe34b0-0499-4f53-afd0-93b778f89cfc">
+      <Execution id="25dad23f-5e9f-4753-a06d-43cfbbae5110" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="EnemyAIAndPickupTests" name="RecogerArmaLaEquipa" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.RecogerArmaLaEquipa(WeaponPlasma, Plasma)" id="1f283106-394c-4b33-93e3-f51dd1212a1c">
+      <Execution id="3438a5e4-3130-41fd-809d-39219039dc7b" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="EnemyAIAndPickupTests" name="RecogerArmaLaEquipa" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.RecogerArmaLaEquipa(WeaponRocket, Lanzacohetes)" id="aa0cfd8a-09ae-43b9-9297-f323eda21be1">
+      <Execution id="ec80745f-8178-4a51-97d2-ce4350cce070" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="EnemyAIAndPickupTests" name="RecogerArmaLaEquipa" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.ArmaRepetidaSoloAportaMunicion" id="98e89335-f616-4d62-860d-8e61b9a52968">
+      <Execution id="e868dc45-da1b-4e3b-86c5-df57ff305d3a" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="EnemyAIAndPickupTests" name="ArmaRepetidaSoloAportaMunicion" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.TarjetaAmarillaSeGuardaEnInventario" id="d5b3380f-556d-4f99-a101-68f357377897">
+      <Execution id="fe4199e5-848f-44b0-8e1d-e06e26de7d82" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="EnemyAIAndPickupTests" name="TarjetaAmarillaSeGuardaEnInventario" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.CambiarDeRanuraEquipaOtraArmaYBloqueaElDisparo" id="fcecabb7-d257-42b0-b981-002e62d2ec6a">
+      <Execution id="fe3e4c2a-350e-484b-b6c3-5d2796bdc8b7" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="EnemyAIAndPickupTests" name="CambiarDeRanuraEquipaOtraArmaYBloqueaElDisparo" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.RecargarRellenaElCargadorDesdeLaReserva" id="dcca6246-3e2c-416d-b666-7b6eff8276c6">
+      <Execution id="69c5ae43-f65c-43e4-b8eb-4dab042c57e4" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="EnemyAIAndPickupTests" name="RecargarRellenaElCargadorDesdeLaReserva" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.CoheteDetonaYDaniaEnemigosEnElRadio" id="90035627-7b9c-498a-acd7-8a74b321767c">
+      <Execution id="090c11f6-09d7-40ec-a7b2-c09a98cf29f9" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="EnemyAIAndPickupTests" name="CoheteDetonaYDaniaEnemigosEnElRadio" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.EnemyAIAndPickupTests.ObjetivoSinMisionGuiaPorTarjetasYAmenazas" id="5074ee05-54dc-408e-a21a-046c99b9f181">
+      <Execution id="19c52adf-6c27-442f-9848-d7efa039dc52" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="EnemyAIAndPickupTests" name="ObjetivoSinMisionGuiaPorTarjetasYAmenazas" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.PlayerAndWorldTests.VidaNoBajaDeCero" id="35f783f2-9087-4a1b-824d-d67b2e7064ff">
+      <Execution id="746d6192-0fc2-4a82-9c1d-bfe50999d56b" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="PlayerAndWorldTests" name="VidaNoBajaDeCero" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.PlayerAndWorldTests.BotiquinNoSuperaCien" id="e2ca3b3c-5ad1-4933-832a-4d6af9520f39">
+      <Execution id="85c965ce-8449-4b9f-926c-b2b5df106f64" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="PlayerAndWorldTests" name="BotiquinNoSuperaCien" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.PlayerAndWorldTests.BotiquinNoReviveJugadorMuerto" id="d64c7866-8d4a-46a4-b207-71c4d9121975">
+      <Execution id="80ad6fd2-10e0-4c91-8ddb-74c0ea1e6e71" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="PlayerAndWorldTests" name="BotiquinNoReviveJugadorMuerto" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.PlayerAndWorldTests.DanoNegativoEsRechazado" id="fd35ef2f-3664-4ff1-bee2-ff80d1eb545d">
+      <Execution id="31ba2a85-f74b-45ec-8c88-de0a73bf0cbf" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="PlayerAndWorldTests" name="DanoNegativoEsRechazado" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.PlayerAndWorldTests.MuertoNoPuedeDisparar" id="ed7c5651-9c12-4502-89b7-9f4f7042f98f">
+      <Execution id="f2ab14e7-7f66-4ee0-9a00-458a84e548e2" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="PlayerAndWorldTests" name="MuertoNoPuedeDisparar" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.PlayerAndWorldTests.EnemigoMuertoNoConsumeMunicion" id="e6bd38cd-8097-4879-8cb4-871950bb070d">
+      <Execution id="cc50e7dc-475e-449c-a368-17ab21eda5b4" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="PlayerAndWorldTests" name="EnemigoMuertoNoConsumeMunicion" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.PlayerAndWorldTests.AgregarTarjetaDosVecesNoLaDuplica" id="2a2239c6-d9e5-4105-9a7e-b15b6abbadf4">
+      <Execution id="363a84f9-cdb1-4d86-8f10-71df4c0ce622" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="PlayerAndWorldTests" name="AgregarTarjetaDosVecesNoLaDuplica" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.PlayerAndWorldTests.EnemigoRespetaTiempoEntreAtaques" id="ed0ce5f6-8ede-4a50-82ea-f8d2148f4367">
+      <Execution id="80c2f248-51d6-41fb-91e7-eede62a80352" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="PlayerAndWorldTests" name="EnemigoRespetaTiempoEntreAtaques" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.PlayerAndWorldTests.RayoDetectaMuroConDistanciaExacta" id="ea3c9acf-bd1a-4b6b-aa22-7864e8b1fef8">
+      <Execution id="45eefc32-d3ea-444b-a91a-45f5368ba860" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="PlayerAndWorldTests" name="RayoDetectaMuroConDistanciaExacta" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.PlayerAndWorldTests.RadioDeColisionImpideEntrarEnMuro" id="a1107275-5fc4-4e45-8a72-1563292da064">
+      <Execution id="33e3efc6-f482-455a-a5fe-0d828dac4bc0" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="PlayerAndWorldTests" name="RadioDeColisionImpideEntrarEnMuro" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.PlayerAndWorldTests.PuertaCerradaBloqueaYAbiertaDejaPasar" id="af47204a-692a-4004-9ce1-4c84c3823c92">
+      <Execution id="c2ecbc8d-d047-4f71-8028-2c4f4d53ec7a" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="PlayerAndWorldTests" name="PuertaCerradaBloqueaYAbiertaDejaPasar" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.ServiceRepositoryTests.EnemigoSeRegistraUnaSolaVezAunqueSeVuelvaADisparar" id="6202491e-d794-4ebb-a503-3c32e3efcb16">
+      <Execution id="35545cb9-4372-4608-a0ee-37732d7c546f" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="ServiceRepositoryTests" name="EnemigoSeRegistraUnaSolaVezAunqueSeVuelvaADisparar" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.ServiceRepositoryTests.GolpeNoLetalNoRegistraDerrota" id="845c84d8-5ffc-4751-a457-4319ef1e5fde">
+      <Execution id="a077d757-6e14-4376-9e28-ad1b71c46320" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="ServiceRepositoryTests" name="GolpeNoLetalNoRegistraDerrota" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.ServiceRepositoryTests.DosEnemigosDelMismoTipoSeCuentanPorSeparado" id="b10ff2e0-dddd-4261-8848-7b324a86051b">
+      <Execution id="45df1aaf-28f0-497b-ba5c-7c1fb12b32aa" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="ServiceRepositoryTests" name="DosEnemigosDelMismoTipoSeCuentanPorSeparado" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.ServiceRepositoryTests.AbrirConLlaveCorrectaRegistraNombre" id="543ccb73-482f-46b0-9509-0a09eba3ffd6">
+      <Execution id="ae9fcd3b-f3ea-41fd-b148-e2b2f5faa23c" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="ServiceRepositoryTests" name="AbrirConLlaveCorrectaRegistraNombre" />
+    </UnitTest>
+    <UnitTest name="DoomFPS.Tests.Unit.ServiceRepositoryTests.LlaveIncorrectaNoEscribeEnRepositorio" id="0028ae22-a949-4804-957b-d9f02abc6b69">
+      <Execution id="a15de7ca-126d-49ff-a2b6-b5a8ed1a4db8" />
+      <TestMethod codeBase="DoomFPS.Tests.dll" className="ServiceRepositoryTests" name="LlaveIncorrectaNoEscribeEnRepositorio" />
+    </UnitTest>
+  </TestDefinitions>
+  <ResultSummary outcome="Completed">
+    <Counters total="148" executed="145" passed="145" failed="0" />
+  </ResultSummary>
+</TestRun>

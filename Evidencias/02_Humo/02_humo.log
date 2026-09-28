@@ -1,0 +1,11 @@
+Starting test execution, please wait...
+A total of 7 tests matched filter 'Category=Smoke'.
+  Passed SmokeTests.HUM01_IniciarCampanaConDependenciasReales [45.5 ms]
+  Passed SmokeTests.HUM02_SeCarganLosSieteMapasYObjetivos [12.8 ms]
+  Passed SmokeTests.HUM03_ElJugadorSeMueveYDispara [7.9 ms]
+  Passed SmokeTests.HUM04_InteraccionActualizaObjetivo [4.6 ms]
+  Passed SmokeTests.HUM05_PausaYReanudacionFuncionan [0.2 ms]
+  Passed SmokeTests.HUM06_ReintentarRestableceMision [2.3 ms]
+  Passed SmokeTests.HUM07_ModoPracticaCargaCualquierMision [9.9 ms]
+
+Passed!  - Failed:     0, Passed:     7, Skipped:     0, Total:     7, Duration: 87 ms - DoomFPS.Tests.dll (net8.0)

@@ -1,0 +1,29 @@
+SECTOR 09 - EMERGENCIA ORBITAL
+
+Extrae TODO el ZIP. Abre Jugar.bat en Windows con .NET Desktop Runtime 8 o posterior.
+Para recompilar el codigo: Compilar_y_jugar.bat (requiere el SDK).
+
+ENTER: campana / F3: practicar cualquier cubierta.
+Haz clic para capturar el raton. Miralo arriba, abajo y a los lados.
+ESC: pausa y libera el cursor. Inicio: centra la camara.
+RePag / AvPag: mirar arriba / abajo con teclado.
+WASD: movimiento. Espacio o clic: disparar. E: interactuar. M: mapa.
+
+OBJETIVO: salvar la nave averiada antes de que explote y choque contra el planeta.
+Lee el informe al entrar en cada nivel. El puente tiene 300 segundos para recuperar el timon.
+
+Pruebas desde la terminal de VS Code, en esta carpeta:
+dotnet test .\DoomFPS.Tests\DoomFPS.Tests.csproj
+Filtro humo: --filter "Category=Smoke"
+Filtro aceptacion: --filter "Category=Acceptance"
+104 pruebas: 7 de humo, 25 de aceptacion y 72 de regresion.
+
+La nueva camara y los graficos se compilaron y se reviso el renderizador sin ventana.
+La captura del raton, audio y rendimiento grafico deben comprobarse en tu equipo Windows.
+La conexion Firebase conserva su configuracion anterior; no se ha probado contra una cuenta real.
+
+Documentacion: docs/ACTUALIZACION_NAVE.md y docs/CASOS_PRACTICOS.html
+
+DESPLIEGUE (ver DESPLIEGUE.md):
+- Escritorio sin SDK: Compilar_escritorio_con_Docker.bat y luego Jugar.bat
+- Web en Docker: Web_Docker.bat  ->  http://localhost:8080
